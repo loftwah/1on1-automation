@@ -1,5 +1,6 @@
 const questions = require('./questions.json');
 const categories = [...new Set(questions.map(question => question.category))];
+const howMany = 3;
 
 // function that will return a random question
 function getRandomQuestion() {
@@ -17,13 +18,13 @@ function getRandomQuestionByCategory(category) {
     return randomQuestion[randomIndex];
     }
 
-// print two random questions from each category to the console following the above format
+// print out x random questions from each of the categories
 categories.forEach(category => {
     console.log(`## ${category}`);
     console.log('');
-    console.log(getRandomQuestionByCategory(category).question);
-    console.log('');
-    console.log(getRandomQuestionByCategory(category).question);
-    console.log('');
+    for (let i = 0; i < howMany; i++) {
+        console.log(getRandomQuestionByCategory(category).question);
+        console.log('');
     }
+}
 );
