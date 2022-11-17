@@ -4,7 +4,7 @@ This repository is for making 1on1 meetings easy, and automated. It is inspired 
 
 ## Requirements
 
-- Node.js
+- Node.js or Ruby
 - GitHub token
 
 ## Usage
@@ -16,6 +16,14 @@ For now, it is just a JavaScript file that is run locally.
 ```bash
 node index.js
 ```
+
+OR! You can use the Ruby version.
+
+```bash
+ruby app.rb
+```
+
+> **Note:** You may need to install some gems for the Ruby version.
 
 ## To Do
 
