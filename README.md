@@ -1,5 +1,18 @@
 # 1 on 1 Automation
 
-Do you have [1:1s](https://getlighthouse.com/blog/how-to-start-one-on-ones-your-teams/) with a team member? Do you forget to open the issue until the last minute? Do you want to share a "journal of your thoughts" during the course of your week with your manager or a peer? If any of that sounds familiar, this issue could be right for you!
+This repository is for making 1on1 meetings easy, and automated. It is inspired by a combination of a couple of different related repositories and I have mostly just joined the ideas together.
 
-This repo contains a sample set of issue templates and [GitHub Actions](https://github.com/features/actions) workflows that are the basis of a lot of automation I use in my [work at GitHub](https://matthewjmccullough.com/about/). I hope seeing the concrete examples helps inspire you to set up some of the same with your team members or peers.
+## Requirements
+
+- Node.js
+- GitHub token
+
+## Usage
+
+To get started you'll need to add your GitHub token to the secrets in GitHub Actions from within the settings of your repository.
+
+For now, it is just a JavaScript file that is run locally.
+
+```bash
+node index.js
+```
