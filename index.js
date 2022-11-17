@@ -38,7 +38,7 @@ const fs = require("fs");
 const path = require("path");
 const filePath = path.join(
   __dirname,
-  ".github/ISSUE_TEMPLATE/1-on-1-directreport-template.md"
+  ".github/ISSUE_TEMPLATE/1-on-1-template.md"
 );
 const file = fs
   .readFileSync(filePath, "utf8")

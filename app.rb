@@ -4,7 +4,7 @@ require "set"
 questions = JSON.parse(File.read("questions.json"))
 categories = questions.map { |question| question["category"] }.to_set.to_a
 how_many = 3
-template_path = ".github/ISSUE_TEMPLATE/1-on-1-directreport-template.md"
+template_path = ".github/ISSUE_TEMPLATE/1-on-1-template.md"
 
 def get_random_question(questions)
   random_index = rand(questions.length)
