@@ -14,58 +14,58 @@ Will follow the format of:
 
 ## About Manager
 
-- What are your impressions of our 1-on-1s? What could we do differently or better?
+- How can I better support you?
 
-- At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?
+- What can I do as a manager to make your work easier?
 
-- What are your impressions of our 1-on-1s? What could we do differently or better?
+- What would you like to see change about these discussions? How could we make them more useful for you?
 
 ## Career development
 
-- How do you think you did on your performance review this year? What do you think the results will be?
+- Which career or development goals do you feel like you’re not able to focus on right now?
 
-- What are your super powers? What powers would you like to develop?
+- What do you see as the next step in your career?
 
-- What goals have you set for your career?
+- What can you do to take action or make progress on what we talked about today?
 
 ## Conversation starters
 
-- Tell me about anything you stumbled over.
-
-- Tell me about anything you stumbled over.
-
 - Are you on track to meet the deadline?
+
+- What do you like to do in your free time? What are your hobbies?
+
+- How are your parents/grandparents? Where do they live? Do you visit them?
 
 ## Job satisfaction
 
-- How did that affect you?
+- How did that make you feel?
+
+- What do you like the least?
 
 - What could I do to make you enjoy your work more?
 
-- How many hours a day do you feel you’re productive? How could we help you be more productive?
-
 ## Other
 
-- As a kid, what did you want to be when you grew up?
+- What did you do for fun in the past that you haven’t had as much time for lately?
 
-- What’s one thing we could change about work for you that would improve your personal life?
+- If you had millions of dollars, what would you do every day?
 
 - What did you do for fun in the past that you haven’t had as much time for lately?
 
 ## Team and company
 
-- What’s the biggest thing you’d like to change about our team?
+- What is the company not doing today that we should do to better compete in the market?
 
-- How would you describe the personality of the team? What sort of person would be a good fit here? What sort of person would add something we're currently missing?
+- Which areas would you would like more feedback on?
 
-- How could we be more creative or innovative as a company?
+- Are there any meetings or discussions you feel you should be a part of that you’re not? Are you included in any you don’t want to be a part of?
 
 ## Work-life
 
-- Is there anything that you’re struggling with?
+- What questions do you have about this project?
 
-- What, if anything, did you used to do that you find you don’t have time for right now?
+- Is there anything you’d like to be doing on your own time to relieve stress that you’re not getting to? How can I help you achieve those personal goals?
 
-- Is there anything that you need from me?
+- What are you doing for yourself outside of work?
 
 <!-- end of questions -->
