@@ -23,7 +23,7 @@ jobs:
         run: echo "DATE=$(date -u '+%F')" >> $GITHUB_ENV
       
       - name: weekly-1-on-1-issue-management
-        uses: imjohnbo/issue-bot@v3
+        uses: imjohnbo/issue-bot@v2.4.3
         with:
           title: "1:1 for week of ${{ env.DATE }}"
           template: ".github/ISSUE_TEMPLATE/1-on-1-template.md"
