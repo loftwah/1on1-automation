@@ -16,3 +16,7 @@ For now, it is just a JavaScript file that is run locally.
 ```bash
 node index.js
 ```
+
+## To Do
+
+- [ ] Add a GitHub Action to run the script

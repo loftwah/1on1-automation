@@ -1,7 +1,7 @@
 ---
 name: 1 on 1 template
 about: A template for our 1:1s
-title: 1:1 for Dean
+title: 1:1 for Dean and manager
 labels: '1-on-1'
 assignees: loftwah
 ---
