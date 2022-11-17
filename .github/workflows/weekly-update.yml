@@ -21,4 +21,4 @@ jobs:
           author_name: Dean Lofts
           author_email: dean@deanlofts.xyz
           message: 'Updating weekly template'
-          add: '.github/ISSUE_TEMPLATE/weekly-update-template.md'
+          add: '.github/ISSUE_TEMPLATE/1-on-1-directreport-template.md'
