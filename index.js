@@ -17,12 +17,6 @@ function getRandomQuestionByCategory(category) {
     return randomQuestion[randomIndex];
     }
 
-// ## Category
-// 
-// - question
-//
-// - question
-//
 // print two random questions from each category to the console following the above format
 categories.forEach(category => {
     console.log(`## ${category}`);
