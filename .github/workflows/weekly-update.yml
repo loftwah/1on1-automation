@@ -5,20 +5,20 @@ on:
   schedule:
     # Run each Sunday at 1500 UTC
     - cron: "0 15 * * 0"
-  jobs:
-    weekly-update:
-      name: Weekly Update
-      runs on: ubuntu-latest
-      steps:
-      - uses: actions/checkout@v3
-      - uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: '3.0' # Not needed with a .ruby-version file
-        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-      run: 
-      - ruby app.rb
-      - git config --global user.email "github-actions[bot]@users.noreply.github.com"
-      - git config --global user.name "github-actions[bot]"
-      - git add .
-      - git commit -m "Update weekly template"
-      - git push
+jobs:
+  weekly-1-on-1-update:
+    name: Weekly 1 on 1 update
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: ruby/setup-ruby@v1
+    with:
+      ruby-version: '3.0' # Not needed with a .ruby-version file
+      bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+    run: 
+    - ruby app.rb
+    - git config --global user.email "github-actions[bot]@users.noreply.github.com"
+    - git config --global user.name "github-actions[bot]"
+    - git add .
+    - git commit -m "Update weekly template"
+    - git push
