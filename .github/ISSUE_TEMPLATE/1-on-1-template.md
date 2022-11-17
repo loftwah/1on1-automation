@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- As your manager, what would you like me to stop, start, or continue doing?
+- What can I do better or differently as your manager to support you?
 
-- What is something I could do better? What feedback do you have for me?
+- What’s your favorite thing I do as a manager of this team I should keep doing?
 
-- If you were me, what changes would you make?
+- What can I do to make things more manageable?
 
 ## Career development
 
-- What areas of your job do you find difficult that getting better skills at would help?
+- What development areas do you want to work on in the coming weeks?
 
-- What big questions do you have about your career opportunities in the future?
+- Do you feel like you are learning at work? What are the new things you learned lately? What are the areas you want to learn about?
 
-- Do you feel we’re helping you advance your career at a pace you would like?
+- To help identify and clarify the goal: What do you want to achieve? What will you do to achieve it? When will you do it? Who do you need to involve? When should you see results?
 
 ## Conversation starters
 
-- Tell me a story...
+- Who do you really admire? Why? (People often admire those they want to become)
 
-- Tell me about your family/weekend/ activities?
+- Tell me about your week – what’s it been like?
 
-- If they have children: How is [name of child] doing? (Ask something related to their age like starting school, playing sports, or other interests.)
+- What would you like to focus on at this meeting?
 
 ## Job satisfaction
 
-- What’s one thing about your job that, if we fixed, would make you never want to leave?
+- What did you like most/least about that?
 
-- What aspect of this project has been particularly interesting for you?
+- What are you most excited about?
 
-- I’ve noticed X about the project… Can you help me understand that better? Talk me through your process.
+- Do you feel challenged at work? Are you learning new things?
 
 ## Other
 
-- As a kid, what did you want to be when you grew up?
+- What’s one thing we could change about work for you that would improve your personal life?
 
-- What did you do for fun in the past that you haven’t had as much time for lately?
+- What haven’t you tried yet?
 
-- What questions do you have about the project?
+- What would you be doing right now if we weren’t having this meeting? How do you feel about being taken away from that task?
 
 ## Team and company
 
-- What do you like about working here? What’s not fun about working here?
+- What excites you about our business?  The company?  What concerns you?
 
-- If we could improve in any way, how would we do it?
+- Who would you like to work more often with? Why?
 
-- What are your next steps to make progress on this problem?
+- What’s the number one problem within our organization? Why?
 
 ## Work-life
 
-- What obstacles are you encountering right now?
-
 - If you could change one thing about your job today, what would you change?
 
-- How are you going to approach this?
+- What do you do when you feel low energy or unmotivated?
+
+- What could we change about work that would improve the rest of your life?
 
 <!-- end of questions -->
 ### Key Updates 🔑
