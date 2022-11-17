@@ -24,7 +24,3 @@ ruby app.rb
 ```
 
 > **Note:** You may need to install some gems for the Ruby version.
-
-## To Do
-
-- [ ] Add a GitHub Action to run the script
