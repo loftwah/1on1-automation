@@ -1,1626 +1,1301 @@
 [
     {
-      "id": 306,
       "question": "If you were me, what changes would you make?",
       "category": "About Manager"
     },
     {
-      "id": 307,
       "question": "How do you prefer to receive feedback?",
       "category": "About Manager"
     },
     {
-      "id": 308,
       "question": "Do you feel you\u2019re getting enough feedback? Why\/why not?",
       "category": "About Manager"
     },
     {
-      "id": 309,
       "question": "What aspect of your job you would like more help or coaching?",
       "category": "About Manager"
     },
     {
-      "id": 310,
       "question": "How can I better support you?",
       "category": "About Manager"
     },
     {
-      "id": 311,
       "question": "What could I do as a manager to make your work easier?",
       "category": "About Manager"
     },
     {
-      "id": 312,
       "question": "What is something I could do better? What feedback do you have for me?",
       "category": "About Manager"
     },
     {
-      "id": 313,
       "question": "What aspects of your work would you like more or less direction from me?",
       "category": "About Manager"
     },
     {
-      "id": 314,
       "question": "What would you like to know about me?",
       "category": "About Manager"
     },
     {
-      "id": 315,
       "question": "What do you like about my management style? What do you dislike?",
       "category": "About Manager"
     },
     {
-      "id": 316,
       "question": "What have your past managers done that you\u2019d like me to also do or not do?",
       "category": "About Manager"
     },
     {
-      "id": 317,
       "question": "What\u2019s your favorite thing I do as a manager of this team I should keep doing?",
       "category": "About Manager"
     },
     {
-      "id": 318,
       "question": "Where do you think I can be most helpful?",
       "category": "About Manager"
     },
     {
-      "id": 319,
       "question": "What are your thoughts on my changes?",
       "category": "About Manager"
     },
     {
-      "id": 320,
       "question": "How can I make your days more fulfilling?",
       "category": "About Manager"
     },
     {
-      "id": 321,
       "question": "What can I be doing better to help you in your job?",
       "category": "About Manager"
     },
     {
-      "id": 322,
       "question": "Are there any obstacles I can remove for you?",
       "category": "About Manager"
     },
     {
-      "id": 323,
       "question": "What can I do to help you achieve you current goals and priorities?",
       "category": "About Manager"
     },
     {
-      "id": 324,
       "question": "What can I do to make things more manageable?",
       "category": "About Manager"
     },
     {
-      "id": 325,
       "question": "How might I make this project more challenging or interesting for you?",
       "category": "About Manager"
     },
     {
-      "id": 326,
       "question": "What do you think I should know about the project, but might not?",
       "category": "About Manager"
     },
     {
-      "id": 327,
       "question": "What is the biggest challenge you are currently facing? How can I help with that?",
       "category": "About Manager"
     },
     {
-      "id": 328,
       "question": "At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?",
       "category": "About Manager"
     },
     {
-      "id": 329,
       "question": "What additional resources can I provide for you between now and the next time we meet?",
       "category": "About Manager"
     },
     {
-      "id": 330,
       "question": "I\u2019ve noticed that our last several 1-on-1s have stayed pretty surface. What are your honest impressions of this meeting? What could we be doing differently or better?",
       "category": "About Manager"
     },
     {
-      "id": 331,
       "question": "What would you like to see change about these discussions? How could we make them more useful for you?",
       "category": "About Manager"
     },
     {
-      "id": 332,
       "question": "I\u2019m trying to make my 1-on-1s better and would appreciate your honest feedback on this one \u2014 what did you like about it, and what could be improved?",
       "category": "About Manager"
     },
     {
-      "id": 334,
       "question": "I'd like to improve as a manager and I could really use your help. Next week, would you be willing to share some feedback on one to two things you think I could do better as your manager?",
       "category": "About Manager"
     },
     {
-      "id": 335,
       "question": "What can I do to help you enjoy your work more or remove roadblocks to progress?",
       "category": "About Manager"
     },
     {
-      "id": 336,
       "question": "Which areas would you like more or less direction from me on your work?",
       "category": "About Manager"
     },
     {
-      "id": 337,
       "question": "What are your impressions of our 1-on-1s? What could we do differently or better?",
       "category": "About Manager"
     },
     {
-      "id": 338,
       "question": "Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?",
       "category": "About Manager"
     },
     {
-      "id": 339,
       "question": "Would you like more coaching? What aspect of your job do you like more help and coaching on?",
       "category": "About Manager"
     },
     {
-      "id": 340,
       "question": "What can I do as a manager to make your work easier?",
       "category": "About Manager"
     },
     {
-      "id": 341,
       "question": "What is the percentage of my involvement in your daily tasks? Would you prefer more or less?",
       "category": "About Manager"
     },
     {
-      "id": 343,
       "question": "What is something I could have done better? What are the situations that I could have helped more but didn\u2019t?",
       "category": "About Manager"
     },
     {
-      "id": 344,
       "question": "What can I do to help you?",
       "category": "About Manager"
     },
     {
-      "id": 345,
       "question": "What is the one thing that you need the most from me?",
       "category": "About Manager"
     },
     {
-      "id": 346,
       "question": "As your manager, what would you like me to stop, start, or continue doing?",
       "category": "About Manager"
     },
     {
-      "id": 347,
       "question": "What can I do to help remove obstacles?",
       "category": "About Manager"
     },
     {
-      "id": 348,
       "question": "Do you have any feedback for me?",
       "category": "About Manager"
     },
     {
-      "id": 350,
       "question": "What can I do to make your job easier?",
       "category": "About Manager"
     },
     {
-      "id": 352,
       "question": "What can I do for you that I'm not?",
       "category": "About Manager"
     },
     {
-      "id": 355,
       "question": "What can I do better or differently as your manager to support you?",
       "category": "About Manager"
     },
     {
-      "id": 356,
       "question": "How could I do a better job communicating with you?",
       "category": "About Manager"
     },
     {
-      "id": 357,
       "question": "What do you want to be doing in 5 years? 10 years? 3 years?",
       "category": "Career development"
     },
     {
-      "id": 358,
       "question": "What are your long term goals? Have you thought about them?",
       "category": "Career development"
     },
     {
-      "id": 359,
       "question": "What are your super powers? What powers would you like to develop?",
       "category": "Career development"
     },
     {
-      "id": 360,
       "question": "What do you want to do in your next job?",
       "category": "Career development"
     },
     {
-      "id": 361,
       "question": "What skills would you like to develop right now?",
       "category": "Career development"
     },
     {
-      "id": 362,
       "question": "What additional training or education would you like?",
       "category": "Career development"
     },
     {
-      "id": 363,
       "question": "Do you feel like you\u2019re making progress on your big goals here? Why or why not?",
       "category": "Career development"
     },
     {
-      "id": 364,
       "question": "What\u2019s one thing we could do today to help you with your long term goals?",
       "category": "Career development"
     },
     {
-      "id": 365,
       "question": "Do you feel we\u2019re helping you advance your career at a pace you would like?",
       "category": "Career development"
     },
     {
-      "id": 366,
       "question": "What are your big dreams in life? Are you making progress on them?",
       "category": "Career development"
     },
     {
-      "id": 367,
       "question": "Could you see yourself making progress on more of your goals here? What would need to change to do so?",
       "category": "Career development"
     },
     {
-      "id": 369,
       "question": "Are there any events or training you\u2019d like to attend to help you grow your skills?",
       "category": "Career development"
     },
     {
-      "id": 370,
       "question": "Who in the company would you like to learn from? What do you want to learn?",
       "category": "Career development"
     },
     {
-      "id": 371,
       "question": "What can you do to take action or make progress on what we talked about today?",
       "category": "Career development"
     },
     {
-      "id": 372,
       "question": "What can I do to take action or make progress on what we talked about today?",
       "category": "Career development"
     },
     {
-      "id": 373,
       "question": "Where do you see your career in the next (2\/5\/10) years?",
       "category": "Career development"
     },
     {
-      "id": 374,
       "question": "What work are you doing here that you feel is most in line with your long term goals?",
       "category": "Career development"
     },
     {
-      "id": 375,
       "question": "What skills are required to reach your goals?",
       "category": "Career development"
     },
     {
-      "id": 376,
       "question": "What are some of the work projects you\u2019re most proud of, and what do you think you might want to do next?",
       "category": "Career development"
     },
     {
-      "id": 377,
       "question": "What are two to three new skills you\u2019d like to learn on the job? What about those skills interests you?",
       "category": "Career development"
     },
     {
-      "id": 378,
       "question": "What other roles here could you see yourself in down the line? Or what areas would you like to explore?",
       "category": "Career development"
     },
     {
-      "id": 379,
       "question": "If you were to create your ideal position, how would it differ from what you are currently doing?",
       "category": "Career development"
     },
     {
-      "id": 380,
       "question": "How is your current work helping or hurting your professional development?",
       "category": "Career development"
     },
     {
-      "id": 381,
       "question": "Which career or development goals do you feel like you\u2019re not able to focus on right now?",
       "category": "Career development"
     },
     {
-      "id": 382,
       "question": "What else can I be doing to help you grow\/advance in your career?",
       "category": "Career development"
     },
     {
-      "id": 383,
       "question": "Imagine it\u2019s two years from now, and things have gone well: What has been your role in that? What does your role look like?",
       "category": "Career development"
     },
     {
-      "id": 384,
       "question": "Have you given any more thought to your long-term goals since our last meeting? What are your latest thoughts?",
       "category": "Career development"
     },
     {
-      "id": 385,
       "question": "Where do you see yourself in three years? Five years?",
       "category": "Career development"
     },
     {
-      "id": 386,
       "question": "What professional goals would you like to accomplish in the next 6 to 12 months, and what makes you say that?",
       "category": "Career development"
     },
     {
-      "id": 387,
       "question": "To help identify and clarify the goal: What do you want to achieve? What will you do to achieve it? When will you do it? Who do you need to involve? When should you see results?",
       "category": "Career development"
     },
     {
-      "id": 388,
       "question": "What about this goal is important to you and what will be different when you achieve the goal?",
       "category": "Career development"
     },
     {
-      "id": 389,
       "question": "What sort of progress have you made on the next steps we discussed last time?",
       "category": "Career development"
     },
     {
-      "id": 390,
       "question": "What development areas do you want to work on in the coming weeks?",
       "category": "Career development"
     },
     {
-      "id": 391,
       "question": "What actions will you take before our next 1-on-1 to make progress on X? (Also discuss and agree on actions you will take to help.)",
       "category": "Career development"
     },
     {
-      "id": 392,
       "question": "During this meeting you\u2019ve mentioned that you\u2019d like to pursue X. What steps can you take toward that before our next 1-on-1?",
       "category": "Career development"
     },
     {
-      "id": 393,
       "question": "Have you ever felt undervalued here?",
       "category": "Career development"
     },
     {
-      "id": 394,
       "question": "What are the projects you would be interested in working on next?",
       "category": "Career development"
     },
     {
-      "id": 396,
       "question": "How do you think about your progress on your big goals? What needs to be done to move towards the goals? What can we do to help?",
       "category": "Career development"
     },
     {
-      "id": 397,
       "question": "Which part of the work here do you feel as most relevant to your long-term goals? What kinds of projects do you want to take part in to move toward your goals?",
       "category": "Career development"
     },
     {
-      "id": 398,
       "question": "Do you feel like you are learning at work? What are the new things you learned lately? What are the areas you want to learn about?",
       "category": "Career development"
     },
     {
-      "id": 399,
       "question": "Do you have the tools you need to reach your goals?",
       "category": "Career development"
     },
     {
-      "id": 400,
       "question": "How do you think you did on your performance review this year? What do you think the results will be?",
       "category": "Career development"
     },
     {
-      "id": 401,
       "question": "Where do you see your career in 1 year, 3 years? What can you do to make sure you reach those goals? How can we as HR help you to reach those goals (assuming the goals relate to the company)?",
       "category": "Career development"
     },
     {
-      "id": 402,
       "question": "Is there a different way we can develop your skills   outside of traditional training?",
       "category": "Career development"
     },
     {
-      "id": 403,
       "question": "What would make this your perfect job?",
       "category": "Career development"
     },
     {
-      "id": 404,
       "question": "Are there any projects you\u2019d really like to work on if you were given the opportunity?",
       "category": "Career development"
     },
     {
-      "id": 405,
       "question": "What parts of your job would you like to deepen your skills in or get additional training in?",
       "category": "Career development"
     },
     {
-      "id": 406,
       "question": "Is there an aspect of your job you would like more help or coaching?",
       "category": "Career development"
     },
     {
-      "id": 407,
       "question": "What areas of your job do you find difficult that getting better skills at would help?",
       "category": "Career development"
     },
     {
-      "id": 408,
       "question": "What skills do you have that you think are underutilized?",
       "category": "Career development"
     },
     {
-      "id": 409,
       "question": "What capabilities do you want to develop?",
       "category": "Career development"
     },
     {
-      "id": 410,
       "question": "Tell me about something new you learned since we met last.",
       "category": "Career development"
     },
     {
-      "id": 411,
       "question": "What opportunities have you had recently to learn something new?",
       "category": "Career development"
     },
     {
-      "id": 412,
       "question": "What would you like to learn about in the future?",
       "category": "Career development"
     },
     {
-      "id": 413,
       "question": "What kind of training or experience would be most helpful to you right now?",
       "category": "Career development"
     },
     {
-      "id": 414,
       "question": "What do you see as the next step in your career?",
       "category": "Career development"
     },
     {
-      "id": 415,
       "question": "What goals have you set for your career?",
       "category": "Career development"
     },
     {
-      "id": 416,
       "question": "How do you feel you are progressing in your career?",
       "category": "Career development"
     },
     {
-      "id": 417,
       "question": "What big questions do you have about your career opportunities in the future?",
       "category": "Career development"
     },
     {
-      "id": 418,
       "question": "What are your goals (for our group for you personally)",
       "category": "Career development"
     },
     {
-      "id": 419,
       "question": "Tell me a story...",
       "category": "Conversation starters"
     },
     {
-      "id": 420,
       "question": "How are you? How is life outside of work?",
       "category": "Conversation starters"
     },
     {
-      "id": 421,
       "question": "If around a holiday: Do you celebrate [Holiday]? If so, can I ask what are you plans?",
       "category": "Conversation starters"
     },
     {
-      "id": 422,
       "question": "How are your parents\/grandparents? Where do they live? Do you visit them?",
       "category": "Conversation starters"
     },
     {
-      "id": 423,
       "question": "If they have children: How is [name of child] doing? (Ask something related to their age like starting school, playing sports, or other interests.)",
       "category": "Conversation starters"
     },
     {
-      "id": 424,
       "question": "What do you like to do in your free time? What are your hobbies?",
       "category": "Conversation starters"
     },
     {
-      "id": 425,
       "question": "Who do you really admire? Why? (People often admire those they want to become)",
       "category": "Conversation starters"
     },
     {
-      "id": 426,
       "question": "Tell me about what you\u2019ve been working on.",
       "category": "Conversation starters"
     },
     {
-      "id": 427,
       "question": "Tell me about your week \u2013 what\u2019s it been like?",
       "category": "Conversation starters"
     },
     {
-      "id": 428,
       "question": "Tell me about your family\/weekend\/ activities?",
       "category": "Conversation starters"
     },
     {
-      "id": 429,
       "question": "Tell me about anything you stumbled over.",
       "category": "Conversation starters"
     },
     {
-      "id": 430,
       "question": "Would you update me on Project X?",
       "category": "Conversation starters"
     },
     {
-      "id": 431,
       "question": "Are you on track to meet the deadline?",
       "category": "Conversation starters"
     },
     {
-      "id": 432,
       "question": "How is your family?",
       "category": "Conversation starters"
     },
     {
-      "id": 433,
       "question": "How was your weekend?",
       "category": "Conversation starters"
     },
     {
-      "id": 435,
       "question": "How\u2019s it going?",
       "category": "Conversation starters"
     },
     {
-      "id": 436,
       "question": "So, what\u2019s on your mind? (or Anything on your mind?)",
       "category": "Conversation starters"
     },
     {
-      "id": 437,
       "question": "What would you like to start with?",
       "category": "Conversation starters"
     },
     {
-      "id": 438,
       "question": "Hey, what\u2019s going on?",
       "category": "Conversation starters"
     },
     {
-      "id": 439,
       "question": "Would you like to walk today, or go somewhere else outside the office?",
       "category": "Conversation starters"
     },
     {
-      "id": 440,
       "question": "Outside of work if there is anything going on, Is there anything you\u2019d like to talk about?",
       "category": "Conversation starters"
     },
     {
-      "id": 441,
       "question": "What can I do to make your day better?",
       "category": "Conversation starters"
     },
     {
-      "id": 442,
       "question": "What's something I don't know, but should?",
       "category": "Conversation starters"
     },
     {
-      "id": 443,
       "question": "Tell me about last week.",
       "category": "Conversation starters"
     },
     {
-      "id": 444,
       "question": "What would you like to focus on at this meeting?",
       "category": "Conversation starters"
     },
     {
-      "id": 445,
       "question": "What have you been doing for fun lately?",
       "category": "Conversation starters"
     },
     {
-      "id": 447,
       "question": "How do you feel your work\/life balance is right now?",
       "category": "Job satisfaction"
     },
     {
-      "id": 448,
       "question": "What drives you? What motivates you to come to work each day?",
       "category": "Job satisfaction"
     },
     {
-      "id": 449,
       "question": "Do you feel challenged at work? Are you learning new things?",
       "category": "Job satisfaction"
     },
     {
-      "id": 450,
       "question": "What\u2019s a recent situation you wish you handled differently? What would you change?",
       "category": "Job satisfaction"
     },
     {
-      "id": 451,
       "question": "What\u2019s an area of your work you want to improve?",
       "category": "Job satisfaction"
     },
     {
-      "id": 452,
       "question": "How many hours a day do you feel you\u2019re productive? How could we help you be more productive?",
       "category": "Job satisfaction"
     },
     {
-      "id": 453,
       "question": "What could I do to make you enjoy your work more?",
       "category": "Job satisfaction"
     },
     {
-      "id": 454,
       "question": "Do you think our company is loyal to its employees? Why or why not?",
       "category": "Job satisfaction"
     },
     {
-      "id": 455,
       "question": "What would convince you to leave for a job somewhere else?",
       "category": "Job satisfaction"
     },
     {
-      "id": 456,
       "question": "Do you feel over-worked, under-worked, or just the right workload?",
       "category": "Job satisfaction"
     },
     {
-      "id": 457,
       "question": "What do you like most about working on our team?",
       "category": "Job satisfaction"
     },
     {
-      "id": 458,
       "question": "What do you feel is your greatest accomplishment here?",
       "category": "Job satisfaction"
     },
     {
-      "id": 459,
       "question": "When was the time you enjoyed working here the most?",
       "category": "Job satisfaction"
     },
     {
-      "id": 460,
       "question": "Are you happy with your recent work? Why or why not?",
       "category": "Job satisfaction"
     },
     {
-      "id": 461,
       "question": "What would make you leave this job for another?",
       "category": "Job satisfaction"
     },
     {
-      "id": 462,
       "question": "Tell me about what you\u2019ve learned on this project.",
       "category": "Job satisfaction"
     },
     {
-      "id": 463,
       "question": "What do you like most about your job today?",
       "category": "Job satisfaction"
     },
     {
-      "id": 464,
       "question": "What do you like the least?",
       "category": "Job satisfaction"
     },
     {
-      "id": 465,
       "question": "What\u2019s one thing about your job that, if we fixed, would make you never want to leave?",
       "category": "Job satisfaction"
     },
     {
-      "id": 466,
       "question": "What are you most excited about?",
       "category": "Job satisfaction"
     },
     {
-      "id": 467,
       "question": "What are you most worried about?",
       "category": "Job satisfaction"
     },
     {
-      "id": 468,
       "question": "How do you think of your current workload and how are you coping with them?",
       "category": "Job satisfaction"
     },
     {
-      "id": 469,
       "question": "What do you need or want to accomplish and by when?",
       "category": "Job satisfaction"
     },
     {
-      "id": 470,
       "question": "What feedback\/praises have you been getting about your current priorities?",
       "category": "Job satisfaction"
     },
     {
-      "id": 471,
       "question": "How are you feeling about your role?",
       "category": "Job satisfaction"
     },
     {
-      "id": 472,
       "question": "Are you happy here? What makes you say that?",
       "category": "Job satisfaction"
     },
     {
-      "id": 473,
       "question": "Do you feel like you're growing in your role? What makes you say that?",
       "category": "Job satisfaction"
     },
     {
-      "id": 474,
       "question": "What interests you about the project(s) you\u2019re currently working on, and why?",
       "category": "Job satisfaction"
     },
     {
-      "id": 475,
       "question": "What is your favorite\/least favorite thing about your work right now?",
       "category": "Job satisfaction"
     },
     {
-      "id": 476,
       "question": "How do you think that least favorite thing affects your overall performance?",
       "category": "Job satisfaction"
     },
     {
-      "id": 477,
       "question": "What\u2019s working well for you in your current position?",
       "category": "Job satisfaction"
     },
     {
-      "id": 478,
       "question": "In what ways does your current position allow you to use your skills and talents?",
       "category": "Job satisfaction"
     },
     {
-      "id": 479,
       "question": "Which areas make you feel like your hands are tied or you are unable to reach your full potential?",
       "category": "Job satisfaction"
     },
     {
-      "id": 480,
       "question": "What do you think you could be doing differently?",
       "category": "Job satisfaction"
     },
     {
-      "id": 481,
       "question": "If you could work on anything for the next month, what would it be? What makes you say that?",
       "category": "Job satisfaction"
     },
     {
-      "id": 482,
       "question": "What\u2019s one thing that could make your work more satisfying, and why?",
       "category": "Job satisfaction"
     },
     {
-      "id": 483,
       "question": "How are you feeling about the project?",
       "category": "Job satisfaction"
     },
     {
-      "id": 484,
       "question": "What aspect of this project has been particularly interesting for you?",
       "category": "Job satisfaction"
     },
     {
-      "id": 485,
       "question": "What do you feel like you're learning from this project?",
       "category": "Job satisfaction"
     },
     {
-      "id": 486,
       "question": "What frustrates you about the project?",
       "category": "Job satisfaction"
     },
     {
-      "id": 487,
       "question": "Which areas would you like to spend more time on and why?",
       "category": "Job satisfaction"
     },
     {
-      "id": 488,
       "question": "What do you think has gone well? What do you think you could have done better? What, if anything, would you like to do, but haven't been able to?",
       "category": "Job satisfaction"
     },
     {
-      "id": 489,
       "question": "What are your biggest concerns about your current project(s)?",
       "category": "Job satisfaction"
     },
     {
-      "id": 490,
       "question": "I\u2019ve noticed X about the project\u2026 Can you help me understand that better? Talk me through your process.",
       "category": "Job satisfaction"
     },
     {
-      "id": 491,
       "question": "Which parts of your project are unclear or confusing?",
       "category": "Job satisfaction"
     },
     {
-      "id": 492,
       "question": "What was that experience like for you?",
       "category": "Job satisfaction"
     },
     {
-      "id": 493,
       "question": "What did you like most\/least about that?",
       "category": "Job satisfaction"
     },
     {
-      "id": 494,
       "question": "How did that affect you?",
       "category": "Job satisfaction"
     },
     {
-      "id": 495,
       "question": "How did that make you feel?",
       "category": "Job satisfaction"
     },
     {
-      "id": 496,
       "question": "If you could change what happened, how would you alter it?",
       "category": "Job satisfaction"
     },
     {
-      "id": 497,
       "question": "What do you think caused that to happen?",
       "category": "Job satisfaction"
     },
     {
-      "id": 498,
       "question": "What\u2019s your No. 1 problem right now? How are you feeling about it?",
       "category": "Job satisfaction"
     },
     {
-      "id": 499,
       "question": "What would be the most helpful thing for you to take away from this conversation in order to make progress on it?",
       "category": "Job satisfaction"
     },
     {
-      "id": 500,
       "question": "What have you tried so far to make progress on it?",
       "category": "Job satisfaction"
     },
     {
-      "id": 501,
       "question": "In our last 1-on-1 you mentioned that you\u2019d like to grow in X \u2014 how has that been going?",
       "category": "Job satisfaction"
     },
     {
-      "id": 502,
       "question": "In our last 1-on-1 you mentioned you were frustrated by X and wanted to try Y as a solution. How has that been going?",
       "category": "Job satisfaction"
     },
     {
-      "id": 503,
       "question": "Can you name three things we can do to help so you can enjoy your job more?What is the best accomplishment you had since you are here? Do you feel appreciated for it?",
       "category": "Job satisfaction"
     },
     {
-      "id": 504,
       "question": "What talents do you have that you feel we are fully utilizing?  Which of your talents are we not fully leveraging?",
       "category": "Job satisfaction"
     },
     {
-      "id": 505,
       "question": "What do you enjoy the most in your current role?",
       "category": "Job satisfaction"
     },
     {
-      "id": 506,
       "question": "Happiness level, 1 to 10?",
       "category": "Job satisfaction"
     },
     {
-      "id": 507,
       "question": "What\u2019s the best part of your job?",
       "category": "Job satisfaction"
     },
     {
-      "id": 508,
       "question": "What\u2019s the worst part about your job?",
       "category": "Job satisfaction"
     },
     {
-      "id": 509,
       "question": "What\u2019s one thing we could change about work for you that would improve your personal life?",
       "category": "Other"
     },
     {
-      "id": 510,
       "question": "What did you do for fun in the past that you haven\u2019t had as much time for lately?",
       "category": "Other"
     },
     {
-      "id": 511,
       "question": "As a kid, what did you want to be when you grew up?",
       "category": "Other"
     },
     {
-      "id": 512,
       "question": "If you had millions of dollars, what would you do every day?",
       "category": "Other"
     },
     {
-      "id": 513,
       "question": "What questions do you have about the project?",
       "category": "Other"
     },
     {
-      "id": 514,
       "question": "What ideas can you bring in from past successes?",
       "category": "Other"
     },
     {
-      "id": 515,
       "question": "What haven\u2019t you tried yet?",
       "category": "Other"
     },
     {
-      "id": 516,
       "question": "What would you be doing right now if we weren\u2019t having this meeting? How do you feel about being taken away from that task?",
       "category": "Other"
     },
     {
-      "id": 517,
       "question": "How are things going for you outside of work?",
       "category": "Other"
     },
     {
-      "id": 518,
       "question": "Is there anything blocking you from getting your work done?",
       "category": "Team and company"
     },
     {
-      "id": 519,
       "question": "What area of the company would you like to learn more about?",
       "category": "Team and company"
     },
     {
-      "id": 520,
       "question": "Are there any roles in the company you\u2019d like to learn more about?",
       "category": "Team and company"
     },
     {
-      "id": 521,
       "question": "What do you think are the key skills for your role? How would you rate yourself for each of them?",
       "category": "Team and company"
     },
     {
-      "id": 522,
       "question": "Is there a situation you\u2019d like my help with?",
       "category": "Team and company"
     },
     {
-      "id": 523,
       "question": "What is the company not doing today that we should do to better compete in the market?",
       "category": "Team and company"
     },
     {
-      "id": 524,
       "question": "What\u2019s one thing we\u2019d be *crazy* not to do in the next quarter to improve our product?",
       "category": "Team and company"
     },
     {
-      "id": 525,
       "question": "If you were CEO, what\u2019s the first thing you\u2019d change?",
       "category": "Team and company"
     },
     {
-      "id": 526,
       "question": "Are there any aspects of our culture you wish you could change?",
       "category": "Team and company"
     },
     {
-      "id": 527,
       "question": "What are your favorite parts about our culture?",
       "category": "Team and company"
     },
     {
-      "id": 528,
       "question": "Which company values do you like the most? Which the least? Why?",
       "category": "Team and company"
     },
     {
-      "id": 529,
       "question": "What is the #1 Problem at our company? Why?",
       "category": "Team and company"
     },
     {
-      "id": 530,
       "question": "How could we be more creative or innovative as a company?",
       "category": "Team and company"
     },
     {
-      "id": 531,
       "question": "How well do you feel like you relate to you coworkers? Do you view them as friends, acquaintances, or strangers?",
       "category": "Team and company"
     },
     {
-      "id": 532,
       "question": "How could we change our team meetings to be more effective?",
       "category": "Team and company"
     },
     {
-      "id": 533,
       "question": "Why do you think [employee who recently quit] left? What did they tell you?",
       "category": "Team and company"
     },
     {
-      "id": 534,
       "question": "Do you feel like you\u2019re on the same page with the team? How often do you think you need meetings to ensure you stay that way?",
       "category": "Team and company"
     },
     {
-      "id": 535,
       "question": "Are there any meetings or discussions you feel you should be a part of that you\u2019re not? Are you included in any you don\u2019t want to be a part of?",
       "category": "Team and company"
     },
     {
-      "id": 536,
       "question": "Who would you like to work more often with? Why?",
       "category": "Team and company"
     },
     {
-      "id": 537,
       "question": "Is everyone pulling their weight on the team?",
       "category": "Team and company"
     },
     {
-      "id": 538,
       "question": "Who is kicking ass on the team? What have they done?",
       "category": "Team and company"
     },
     {
-      "id": 539,
       "question": "Who on the team do you have the most difficulty working with? Why?",
       "category": "Team and company"
     },
     {
-      "id": 540,
       "question": "Do you help other members on the team? Do others help you when you need it?",
       "category": "Team and company"
     },
     {
-      "id": 541,
       "question": "Are you uncomfortable giving any of your peers constructive criticism? If so, why?",
       "category": "Team and company"
     },
     {
-      "id": 542,
       "question": "What\u2019s an inexpensive thing we could do to improve our office environment for the team?",
       "category": "Team and company"
     },
     {
-      "id": 543,
       "question": "Is your job what you expected when you accepted it?",
       "category": "Team and company"
     },
     {
-      "id": 544,
       "question": "Who are you friends with at work? (Shown to be a key to enjoying your job)",
       "category": "Team and company"
     },
     {
-      "id": 545,
       "question": "What\u2019s something you feel is undervalued that you contribute to the team?",
       "category": "Team and company"
     },
     {
-      "id": 546,
       "question": "What part of your job do you wish you didn\u2019t have to do?",
       "category": "Team and company"
     },
     {
-      "id": 548,
       "question": "Who do you admire within the company and why?",
       "category": "Team and company"
     },
     {
-      "id": 549,
       "question": "Who has really been kicking ass lately?",
       "category": "Team and company"
     },
     {
-      "id": 550,
       "question": "What do you like about working here? What\u2019s not fun about working here?",
       "category": "Team and company"
     },
     {
-      "id": 551,
       "question": "If we could improve in any way, how would we do it?",
       "category": "Team and company"
     },
     {
-      "id": 552,
       "question": "What\u2019s the number one problem within our organization? Why?",
       "category": "Team and company"
     },
     {
-      "id": 553,
       "question": "What\u2019s the biggest opportunity we\u2019re missing out on?",
       "category": "Team and company"
     },
     {
-      "id": 555,
       "question": "What would you like to learn more about this year?",
       "category": "Team and company"
     },
     {
-      "id": 557,
       "question": "Which areas would you would like more feedback on?",
       "category": "Team and company"
     },
     {
-      "id": 559,
       "question": "What would you like to see change here? Why do you say that?",
       "category": "Team and company"
     },
     {
-      "id": 560,
       "question": "What\u2019s the No. 1 problem with our organization, and what do you think's causing it?",
       "category": "Team and company"
     },
     {
-      "id": 561,
       "question": "What are we not doing that we should be doing? What makes you say that?",
       "category": "Team and company"
     },
     {
-      "id": 562,
       "question": "What are we doing that you think we should stop doing, and why?",
       "category": "Team and company"
     },
     {
-      "id": 563,
       "question": "How are you feeling about the company\u2019s future overall? What makes you say that?",
       "category": "Team and company"
     },
     {
-      "id": 564,
       "question": "How would you describe the personality of the team? What sort of person would be a good fit here? What sort of person would add something we're currently missing?",
       "category": "Team and company"
     },
     {
-      "id": 565,
       "question": "How would you say we're doing at working together as team? What makes you say that?",
       "category": "Team and company"
     },
     {
-      "id": 566,
       "question": "What are some ways we could improve at teamwork? What makes you say that?",
       "category": "Team and company"
     },
     {
-      "id": 568,
       "question": "How would you describe the division of work among team members?",
       "category": "Team and company"
     },
     {
-      "id": 569,
       "question": "Do you feel adequately supported by other team members? What makes you say that?",
       "category": "Team and company"
     },
     {
-      "id": 570,
       "question": "Is there anything you\u2019d like to see change about the team, and if so, why?",
       "category": "Team and company"
     },
     {
-      "id": 571,
       "question": "How are you feeling about the recent news? Why do you say that?",
       "category": "Team and company"
     },
     {
-      "id": 572,
       "question": "What concerns do you have about the change that haven't been addressed?",
       "category": "Team and company"
     },
     {
-      "id": 573,
       "question": "What\u2019s going well and not so well with the new situation\/development? Why do you think this might be happening?",
       "category": "Team and company"
     },
     {
-      "id": 574,
       "question": "Do you have a clear understanding of the new goals and expectations? What makes you say that?",
       "category": "Team and company"
     },
     {
-      "id": 575,
       "question": "How is the new situation\/development affecting your work? What could be getting in the way of your being effective?",
       "category": "Team and company"
     },
     {
-      "id": 576,
       "question": "What sort of resources could you use right now to make things more manageable?",
       "category": "Team and company"
     },
     {
-      "id": 577,
       "question": "Could you tell me a little more about that?",
       "category": "Team and company"
     },
     {
-      "id": 578,
       "question": "Can you share some of the details around that particular issue? (Who was involved? Where? When? For how long?)",
       "category": "Team and company"
     },
     {
-      "id": 579,
       "question": "What are some possible ways to get the solution you need?",
       "category": "Team and company"
     },
     {
-      "id": 580,
       "question": "What additional resources from me would be helpful for you as you solve this problem?",
       "category": "Team and company"
     },
     {
-      "id": 581,
       "question": "What are your next steps to make progress on this problem?",
       "category": "Team and company"
     },
     {
-      "id": 582,
       "question": "What do you do when you get stuck on something? What is your process of getting unstuck? Who is the team member you turn to for help?",
       "category": "Team and company"
     },
     {
-      "id": 583,
       "question": "Who inspire you in the team? Whose opinions do you respect? What have they done?",
       "category": "Team and company"
     },
     {
-      "id": 584,
       "question": "Is there anybody in the team that you find it difficult to work with? Can you tell me why?",
       "category": "Team and company"
     },
     {
-      "id": 585,
       "question": "What do you think about the amount of feedback in our team? When do others give feedback to you? Would you like to hear more feedback from other team member and me?",
       "category": "Team and company"
     },
     {
-      "id": 586,
       "question": "What do you think would help us work together better?",
       "category": "Team and company"
     },
     {
-      "id": 587,
       "question": "Whom in the team do you want to learn from? Whom do you get valuable feedback from?",
       "category": "Team and company"
     },
     {
-      "id": 588,
       "question": "What are your top three motivators?",
       "category": "Team and company"
     },
     {
-      "id": 589,
       "question": "What excites you about our business?  The company?  What concerns you?",
       "category": "Team and company"
     },
     {
-      "id": 590,
       "question": "What do you think about _________?",
       "category": "Team and company"
     },
     {
-      "id": 591,
       "question": "What\u2019s the No. 1 problem with our organization? Why?",
       "category": "Team and company"
     },
     {
-      "id": 593,
       "question": "Who is really kicking ass in the company? Who do you admire?",
       "category": "Team and company"
     },
     {
-      "id": 594,
       "question": "Is any part of your project unclear or confusing?",
       "category": "Team and company"
     },
     {
-      "id": 595,
       "question": "Has anyone on the team ever made you feel uncomfortable? What happened?",
       "category": "Team and company"
     },
     {
-      "id": 596,
       "question": "What characteristics make someone a good fit for our team? How would you look for those characteristics in an interview?",
       "category": "Team and company"
     },
     {
-      "id": 597,
       "question": "What\u2019s the biggest thing you\u2019d like to change about our team?",
       "category": "Team and company"
     },
     {
-      "id": 598,
       "question": "What\u2019s one thing we should change about how our team works together?",
       "category": "Team and company"
     },
     {
-      "id": 599,
       "question": "Where do you think we can do better?",
       "category": "Team and company"
     },
     {
-      "id": 600,
       "question": "How would you rate our communication as a team?",
       "category": "Team and company"
     },
     {
-      "id": 601,
       "question": "What kind of communication or information do you wish you had more of?",
       "category": "Team and company"
     },
     {
-      "id": 602,
       "question": "What areas are ahead of schedule?",
       "category": "Team and company"
     },
     {
-      "id": 603,
       "question": "Is there anything that\u2019s slowing you down from getting your work done?",
       "category": "Team and company"
     },
     {
-      "id": 604,
       "question": "Are there any problems or issues that I should know about?",
       "category": "Team and company"
     },
     {
-      "id": 605,
       "question": "What do you think you can do to fix that problem?",
       "category": "Team and company"
     },
     {
-      "id": 606,
       "question": "What could you have done differently?",
       "category": "Team and company"
     },
     {
-      "id": 607,
       "question": "What worries you? What\u2019s on your mind?",
       "category": "Work-life"
     },
     {
-      "id": 608,
       "question": "What areas of your work are you confident about?",
       "category": "Work-life"
     },
     {
-      "id": 609,
       "question": "What worries you?",
       "category": "Work-life"
     },
     {
-      "id": 610,
       "question": "What suggestions do you have?",
       "category": "Work-life"
     },
     {
-      "id": 611,
       "question": "What questions do you have about this project?",
       "category": "Work-life"
     },
     {
-      "id": 612,
       "question": "How are you going to approach this?",
       "category": "Work-life"
     },
     {
-      "id": 613,
       "question": "How are you planning to balance work and personal life this year?",
       "category": "Work-life"
     },
     {
-      "id": 614,
       "question": "What are you doing for yourself outside of work?",
       "category": "Work-life"
     },
     {
-      "id": 615,
       "question": "Is there anything you\u2019d like to be doing on your own time to relieve stress that you\u2019re not getting to? How can I help you achieve those personal goals?",
       "category": "Work-life"
     },
     {
-      "id": 616,
       "question": "What does your ideal weekday look like?",
       "category": "Work-life"
     },
     {
-      "id": 617,
       "question": "How is your workload right now?",
       "category": "Work-life"
     },
     {
-      "id": 619,
       "question": "How do you feel about your work\/life balance?",
       "category": "Work-life"
     },
     {
-      "id": 620,
       "question": "What, if anything, did you used to do that you find you don\u2019t have time for right now?",
       "category": "Work-life"
     },
     {
-      "id": 621,
       "question": "What could we change about work that would improve the rest of your life?",
       "category": "Work-life"
     },
     {
-      "id": 622,
       "question": "Which part of the day do you feel most productive? When do you feel that your energy and focus are at the lowest level? What are the changes that can be made so you can take the best out of a work day?",
       "category": "Work-life"
     },
     {
-      "id": 623,
       "question": "What were your biggest time wasters or roadblocks last week or the week before?",
       "category": "Work-life"
     },
     {
-      "id": 624,
       "question": "What stands in your way?",
       "category": "Work-life"
     },
     {
-      "id": 625,
       "question": "What was difficult this week? what have you learned?",
       "category": "Work-life"
     },
     {
-      "id": 626,
       "question": "When was your last vacation? ",
       "category": "Work-life"
     },
     {
-      "id": 627,
       "question": "When is your next vacation?",
       "category": "Work-life"
     },
     {
-      "id": 628,
       "question": "What part of the day do you have the most energy and focus? When do you have the least? What changes could we make to your work schedule to accommodate this?",
       "category": "Work-life"
     },
     {
-      "id": 629,
       "question": "What are 3 things could we do to improve your productivity if money was no object?",
       "category": "Work-life"
     },
     {
-      "id": 630,
       "question": "What is an ideal, productive day at work for you? Walk me through the day\u2026",
       "category": "Work-life"
     },
     {
-      "id": 631,
       "question": "What\u2019s an inexpensive thing we could do to improve our office environment?",
       "category": "Work-life"
     },
     {
-      "id": 632,
       "question": "What are the biggest time wasters for you each week?",
       "category": "Work-life"
     },
     {
-      "id": 633,
       "question": "What makes you excited and motivated to work on a project?",
       "category": "Work-life"
     },
     {
-      "id": 634,
       "question": "When you get stuck on something, what is your process for getting unstuck? Who do you turn to for help?",
       "category": "Work-life"
     },
     {
-      "id": 635,
       "question": "What part of your work routine do you find is working best? What area do you want to improve?",
       "category": "Work-life"
     },
     {
-      "id": 636,
       "question": "What do you do when you feel low energy or unmotivated?",
       "category": "Work-life"
     },
     {
-      "id": 637,
       "question": "How can I help\u2026? (be more productive\/happier at work\/enjoy work more\/etc)",
       "category": "Work-life"
     },
     {
-      "id": 638,
       "question": "Is there anything that you\u2019re struggling with?",
       "category": "Work-life"
     },
     {
-      "id": 639,
       "question": "Is there anything that you need from me?",
       "category": "Work-life"
     },
     {
-      "id": 640,
       "question": "What is the most important thing we need to discuss today?",
       "category": "Work-life"
     },
     {
-      "id": 641,
       "question": "What are your most significant accomplishments since we last met?",
       "category": "Work-life"
     },
     {
-      "id": 642,
       "question": "What are the most important things you will focus on before we meet next?",
       "category": "Work-life"
     },
     {
-      "id": 643,
       "question": "What obstacles are you encountering right now?",
       "category": "Work-life"
     },
     {
-      "id": 644,
       "question": "How are you feeling about work?",
       "category": "Work-life"
     },
     {
-      "id": 645,
       "question": "What about your job is most satisfying for you?",
       "category": "Work-life"
     },
     {
-      "id": 646,
       "question": "What about work is frustrating?",
       "category": "Work-life"
     },
     {
-      "id": 647,
       "question": "If you could change one thing about your job today, what would you change?",
       "category": "Work-life"
     }
