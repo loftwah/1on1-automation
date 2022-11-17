@@ -23,7 +23,7 @@ jobs:
       - name: weekly-journal-issue-management
         uses: imjohnbo/issue-bot@v2.4.3
         with:
-          title: "Weekly journal notes for Erica + Matthew for week of ${{ env.DATE }}"
+          title: "Weekly journal notes for week of ${{ env.DATE }}"
           template: ".github/ISSUE_TEMPLATE/weekly_journal.md"
           close-previous: true
         env:
