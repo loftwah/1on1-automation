@@ -1,5 +1,7 @@
 # 1 on 1 Automation
 
+![1on1](images/1on1.png)
+
 This repository is for making 1on1 meetings easy, and automated. It is inspired by a combination of a couple of different related repositories and I have mostly just joined the ideas together.
 
 ## Requirements
