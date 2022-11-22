@@ -25,4 +25,4 @@ OR! You can use the Ruby version.
 ruby app.rb
 ```
 
-> **Note:** You may need to install some gems for the Ruby version.
+> **Note** You may need to install some gems for the Ruby version.
