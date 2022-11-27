@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- I’ve noticed that our last several 1-on-1s have stayed pretty surface. What are your honest impressions of this meeting? What could we be doing differently or better?
+- Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?
 
-- What is something I could have done better? What are the situations that I could have helped more but didn’t?
+- What can I do to help you enjoy your work more or remove roadblocks to progress?
 
-- I’ve noticed that our last several 1-on-1s have stayed pretty surface. What are your honest impressions of this meeting? What could we be doing differently or better?
+- What aspect of your job you would like more help or coaching?
 
 ## Career development
 
-- How do you think you did on your performance review this year? What do you think the results will be?
+- To help identify and clarify the goal: What do you want to achieve? What will you do to achieve it? When will you do it? Who do you need to involve? When should you see results?
 
-- Do you feel we’re helping you advance your career at a pace you would like?
+- If you were to create your ideal position, how would it differ from what you are currently doing?
 
-- Where do you see yourself in three years? Five years?
+- What actions will you take before our next 1-on-1 to make progress on X? (Also discuss and agree on actions you will take to help.)
 
 ## Conversation starters
 
-- How’s it going?
+- What would you like to start with?
 
-- Are you on track to meet the deadline?
+- If they have children: How is [name of child] doing? (Ask something related to their age like starting school, playing sports, or other interests.)
 
-- What have you been doing for fun lately?
+- Tell me about last week.
 
 ## Job satisfaction
 
-- Do you feel like you're growing in your role? What makes you say that?
+- What do you like most about working on our team?
 
-- I’ve noticed X about the project… Can you help me understand that better? Talk me through your process.
+- When was the time you enjoyed working here the most?
 
-- How do you feel your work/life balance is right now?
+- What do you enjoy the most in your current role?
 
 ## Other
 
-- As a kid, what did you want to be when you grew up?
+- How are things going for you outside of work?
 
-- What haven’t you tried yet?
+- If you had millions of dollars, what would you do every day?
 
-- What questions do you have about the project?
+- If you had millions of dollars, what would you do every day?
 
 ## Team and company
 
-- What do you think would help us work together better?
+- If we could improve in any way, how would we do it?
 
-- What additional resources from me would be helpful for you as you solve this problem?
+- What’s the No. 1 problem with our organization? Why?
 
-- What could you have done differently?
+- What do you think you can do to fix that problem?
 
 ## Work-life
 
-- What areas of your work are you confident about?
+- How can I help…? (be more productive/happier at work/enjoy work more/etc)
 
-- What makes you excited and motivated to work on a project?
+- Is there anything that you need from me?
 
-- What about work is frustrating?
+- What is an ideal, productive day at work for you? Walk me through the day…
 
 <!-- end of questions -->
 ### Key Updates 🔑
