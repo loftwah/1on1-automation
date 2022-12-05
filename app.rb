@@ -22,8 +22,9 @@ end
 
 payload = categories.map do |category|
   these_questions = []
-  how_many.times do
-    these_questions << get_random_question_by_category(questions, category)
+  while these_questions.length < how_many
+    random_question = get_random_question_by_category(questions, category)
+    these_questions << random_question unless these_questions.include?(random_question)
   end
   { category => these_questions }
 end
