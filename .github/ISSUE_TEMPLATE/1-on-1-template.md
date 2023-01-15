@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- What is the one thing that you need the most from me?
+- What can I do to help you?
 
-- How do you prefer to receive feedback?
+- As your manager, what would you like me to stop, start, or continue doing?
 
-- What can I do to help remove obstacles?
+- How could I do a better job communicating with you?
 
 ## Career development
 
-- What skills do you have that you think are underutilized?
+- Where do you see your career in 1 year, 3 years? What can you do to make sure you reach those goals? How can we as HR help you to reach those goals (assuming the goals relate to the company)?
 
-- Where do you see your career in the next (2/5/10) years?
+- What parts of your job would you like to deepen your skills in or get additional training in?
 
-- Imagine it’s two years from now, and things have gone well: What has been your role in that? What does your role look like?
+- What work are you doing here that you feel is most in line with your long term goals?
 
 ## Conversation starters
 
-- How are you? How is life outside of work?
+- Hey, what’s going on?
 
-- Would you update me on Project X?
+- What do you like to do in your free time? What are your hobbies?
 
-- Who do you really admire? Why? (People often admire those they want to become)
+- Tell me about anything you stumbled over.
 
 ## Job satisfaction
 
-- What could I do to make you enjoy your work more?
+- How do you feel your work/life balance is right now?
 
-- I’ve noticed X about the project… Can you help me understand that better? Talk me through your process.
+- What drives you? What motivates you to come to work each day?
 
-- When was the time you enjoyed working here the most?
+- Which areas make you feel like your hands are tied or you are unable to reach your full potential?
 
 ## Other
 
-- What’s one thing we could change about work for you that would improve your personal life?
-
 - What did you do for fun in the past that you haven’t had as much time for lately?
 
-- How are things going for you outside of work?
+- What haven’t you tried yet?
+
+- As a kid, what did you want to be when you grew up?
 
 ## Team and company
 
-- Has anyone on the team ever made you feel uncomfortable? What happened?
+- Is there anybody in the team that you find it difficult to work with? Can you tell me why?
+
+- Is everyone pulling their weight on the team?
 
 - What do you think are the key skills for your role? How would you rate yourself for each of them?
 
-- How well do you feel like you relate to you coworkers? Do you view them as friends, acquaintances, or strangers?
-
 ## Work-life
 
-- How are you going to approach this?
+- What worries you? What’s on your mind?
 
-- What does your ideal weekday look like?
+- How are you planning to balance work and personal life this year?
 
-- How can I help…? (be more productive/happier at work/enjoy work more/etc)
+- What worries you?
 
 <!-- end of questions -->
 ### Key Updates 🔑
