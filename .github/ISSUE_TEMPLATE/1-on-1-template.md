@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- What’s your favorite thing I do as a manager of this team I should keep doing?
+- How can I make your days more fulfilling?
 
-- What can I do better or differently as your manager to support you?
+- What can I do as a manager to make your work easier?
 
-- What can I do to help you enjoy your work more or remove roadblocks to progress?
+- What is something I could do better? What feedback do you have for me?
 
 ## Career development
 
-- What parts of your job would you like to deepen your skills in or get additional training in?
+- What skills do you have that you think are underutilized?
 
-- How do you think about your progress on your big goals? What needs to be done to move towards the goals? What can we do to help?
+- What kind of training or experience would be most helpful to you right now?
 
-- What goals have you set for your career?
+- What are some of the work projects you’re most proud of, and what do you think you might want to do next?
 
 ## Conversation starters
 
-- What's something I don't know, but should?
+- Tell me about your family/weekend/ activities?
 
-- Would you like to walk today, or go somewhere else outside the office?
+- What would you like to start with?
 
-- What would you like to focus on at this meeting?
+- How’s it going?
 
 ## Job satisfaction
 
-- Do you think our company is loyal to its employees? Why or why not?
+- What drives you? What motivates you to come to work each day?
 
-- What talents do you have that you feel we are fully utilizing?  Which of your talents are we not fully leveraging?
+- What frustrates you about the project?
 
-- Do you feel like you're growing in your role? What makes you say that?
+- Which parts of your project are unclear or confusing?
 
 ## Other
 
-- What did you do for fun in the past that you haven’t had as much time for lately?
+- What would you be doing right now if we weren’t having this meeting? How do you feel about being taken away from that task?
 
-- How are things going for you outside of work?
+- What haven’t you tried yet?
 
-- What ideas can you bring in from past successes?
+- What questions do you have about the project?
 
 ## Team and company
 
-- What sort of resources could you use right now to make things more manageable?
-
-- Which areas would you would like more feedback on?
+- How would you describe the personality of the team? What sort of person would be a good fit here? What sort of person would add something we're currently missing?
 
 - What’s an inexpensive thing we could do to improve our office environment for the team?
 
+- Is any part of your project unclear or confusing?
+
 ## Work-life
 
-- What was difficult this week? what have you learned?
+- If you could change one thing about your job today, what would you change?
 
-- What is an ideal, productive day at work for you? Walk me through the day…
+- Is there anything that you need from me?
 
-- What about your job is most satisfying for you?
+- When is your next vacation?
 
 <!-- end of questions -->
 ### Key Updates 🔑
