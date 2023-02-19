@@ -13,39 +13,39 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- Would you like more coaching? What aspect of your job do you like more help and coaching on?
+- What is the one thing that you need the most from me?
 
-- If you were me, what changes would you make?
+- What would you like to see change about these discussions? How could we make them more useful for you?
 
-- What is something I could do better? What feedback do you have for me?
+- As your manager, what would you like me to stop, start, or continue doing?
 
 ## Career development
 
-- What are your goals (for our group for you personally)
+- To help identify and clarify the goal: What do you want to achieve? What will you do to achieve it? When will you do it? Who do you need to involve? When should you see results?
 
-- What areas of your job do you find difficult that getting better skills at would help?
+- During this meeting you’ve mentioned that you’d like to pursue X. What steps can you take toward that before our next 1-on-1?
 
-- What would you like to learn about in the future?
+- What are the projects you would be interested in working on next?
 
 ## Conversation starters
 
-- Are you on track to meet the deadline?
+- Tell me about last week.
+
+- Hey, what’s going on?
 
 - Who do you really admire? Why? (People often admire those they want to become)
 
-- How is your family?
-
 ## Job satisfaction
 
-- Which areas would you like to spend more time on and why?
+- Which areas make you feel like your hands are tied or you are unable to reach your full potential?
 
-- How do you think of your current workload and how are you coping with them?
+- In what ways does your current position allow you to use your skills and talents?
 
-- How are you feeling about the project?
+- What talents do you have that you feel we are fully utilizing?  Which of your talents are we not fully leveraging?
 
 ## Other
 
-- If you had millions of dollars, what would you do every day?
+- What did you do for fun in the past that you haven’t had as much time for lately?
 
 - How are things going for you outside of work?
 
@@ -53,19 +53,19 @@ Will follow the format of:
 
 ## Team and company
 
-- Is there anything that’s slowing you down from getting your work done?
+- How could we be more creative or innovative as a company?
 
-- What’s going well and not so well with the new situation/development? Why do you think this might be happening?
+- Is everyone pulling their weight on the team?
 
-- How would you describe the personality of the team? What sort of person would be a good fit here? What sort of person would add something we're currently missing?
+- What’s one thing we’d be *crazy* not to do in the next quarter to improve our product?
 
 ## Work-life
 
-- When was your last vacation? 
+- Is there anything you’d like to be doing on your own time to relieve stress that you’re not getting to? How can I help you achieve those personal goals?
 
-- What areas of your work are you confident about?
+- What are the biggest time wasters for you each week?
 
-- Which part of the day do you feel most productive? When do you feel that your energy and focus are at the lowest level? What are the changes that can be made so you can take the best out of a work day?
+- What are your most significant accomplishments since we last met?
 
 <!-- end of questions -->
 ### Key Updates 🔑
