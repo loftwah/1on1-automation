@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- What is the one thing that you need the most from me?
+- What can I do to make your job easier?
 
-- What would you like to see change about these discussions? How could we make them more useful for you?
+- What is the biggest challenge you are currently facing? How can I help with that?
 
-- As your manager, what would you like me to stop, start, or continue doing?
+- What is the percentage of my involvement in your daily tasks? Would you prefer more or less?
 
 ## Career development
 
-- To help identify and clarify the goal: What do you want to achieve? What will you do to achieve it? When will you do it? Who do you need to involve? When should you see results?
+- Is there a different way we can develop your skills   outside of traditional training?
 
-- During this meeting you’ve mentioned that you’d like to pursue X. What steps can you take toward that before our next 1-on-1?
+- What actions will you take before our next 1-on-1 to make progress on X? (Also discuss and agree on actions you will take to help.)
 
-- What are the projects you would be interested in working on next?
+- Who in the company would you like to learn from? What do you want to learn?
 
 ## Conversation starters
 
-- Tell me about last week.
+- Outside of work if there is anything going on, Is there anything you’d like to talk about?
 
-- Hey, what’s going on?
+- Would you update me on Project X?
 
 - Who do you really admire? Why? (People often admire those they want to become)
 
 ## Job satisfaction
 
-- Which areas make you feel like your hands are tied or you are unable to reach your full potential?
+- What is your favorite/least favorite thing about your work right now?
 
-- In what ways does your current position allow you to use your skills and talents?
+- What’s working well for you in your current position?
 
-- What talents do you have that you feel we are fully utilizing?  Which of your talents are we not fully leveraging?
+- Do you think our company is loyal to its employees? Why or why not?
 
 ## Other
 
-- What did you do for fun in the past that you haven’t had as much time for lately?
+- What would you be doing right now if we weren’t having this meeting? How do you feel about being taken away from that task?
 
 - How are things going for you outside of work?
 
-- What’s one thing we could change about work for you that would improve your personal life?
+- What did you do for fun in the past that you haven’t had as much time for lately?
 
 ## Team and company
 
-- How could we be more creative or innovative as a company?
+- Where do you think we can do better?
 
-- Is everyone pulling their weight on the team?
+- What would you like to learn more about this year?
 
-- What’s one thing we’d be *crazy* not to do in the next quarter to improve our product?
+- How could we change our team meetings to be more effective?
 
 ## Work-life
 
-- Is there anything you’d like to be doing on your own time to relieve stress that you’re not getting to? How can I help you achieve those personal goals?
+- What about work is frustrating?
 
-- What are the biggest time wasters for you each week?
+- What are the most important things you will focus on before we meet next?
 
-- What are your most significant accomplishments since we last met?
+- How can I help…? (be more productive/happier at work/enjoy work more/etc)
 
 <!-- end of questions -->
 ### Key Updates 🔑
