@@ -13,51 +13,51 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- What could I do as a manager to make your work easier?
-
 - Would you like more coaching? What aspect of your job do you like more help and coaching on?
 
-- At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?
+- What’s your favorite thing I do as a manager of this team I should keep doing?
+
+- If you were me, what changes would you make?
 
 ## Career development
 
-- What skills would you like to develop right now?
+- Do you have the tools you need to reach your goals?
 
-- What areas of your job do you find difficult that getting better skills at would help?
+- What about this goal is important to you and what will be different when you achieve the goal?
 
-- What additional training or education would you like?
+- Have you ever felt undervalued here?
 
 ## Conversation starters
 
-- Tell me about what you’ve been working on.
-
-- Would you update me on Project X?
+- Outside of work if there is anything going on, Is there anything you’d like to talk about?
 
 - Are you on track to meet the deadline?
 
+- Tell me a story...
+
 ## Job satisfaction
 
-- If you could work on anything for the next month, what would it be? What makes you say that?
+- If you could change what happened, how would you alter it?
 
-- Are you happy with your recent work? Why or why not?
+- Happiness level, 1 to 10?
 
-- What do you enjoy the most in your current role?
+- What’s the worst part about your job?
 
 ## Other
 
-- What haven’t you tried yet?
-
-- What did you do for fun in the past that you haven’t had as much time for lately?
-
 - What would you be doing right now if we weren’t having this meeting? How do you feel about being taken away from that task?
+
+- What’s one thing we could change about work for you that would improve your personal life?
+
+- If you had millions of dollars, what would you do every day?
 
 ## Team and company
 
-- Is everyone pulling their weight on the team?
+- What are we not doing that we should be doing? What makes you say that?
 
-- Can you share some of the details around that particular issue? (Who was involved? Where? When? For how long?)
+- Are there any aspects of our culture you wish you could change?
 
-- Do you feel adequately supported by other team members? What makes you say that?
+- What’s one thing we should change about how our team works together?
 
 ## Work-life
 
@@ -65,7 +65,7 @@ Will follow the format of:
 
 - What do you do when you feel low energy or unmotivated?
 
-- What obstacles are you encountering right now?
+- What are your most significant accomplishments since we last met?
 
 <!-- end of questions -->
 ### Key Updates 🔑
