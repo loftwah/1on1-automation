@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- Would you like more coaching? What aspect of your job do you like more help and coaching on?
+- Do you feel you’re getting enough feedback? Why/why not?
 
-- What’s your favorite thing I do as a manager of this team I should keep doing?
+- I'd like to improve as a manager and I could really use your help. Next week, would you be willing to share some feedback on one to two things you think I could do better as your manager?
 
-- If you were me, what changes would you make?
+- What aspect of your job you would like more help or coaching?
 
 ## Career development
 
-- Do you have the tools you need to reach your goals?
+- If you were to create your ideal position, how would it differ from what you are currently doing?
 
-- What about this goal is important to you and what will be different when you achieve the goal?
+- What would you like to learn about in the future?
 
-- Have you ever felt undervalued here?
+- Is there a different way we can develop your skills   outside of traditional training?
 
 ## Conversation starters
 
-- Outside of work if there is anything going on, Is there anything you’d like to talk about?
+- Tell me about what you’ve been working on.
+
+- What's something I don't know, but should?
 
 - Are you on track to meet the deadline?
 
-- Tell me a story...
-
 ## Job satisfaction
 
-- If you could change what happened, how would you alter it?
+- What aspect of this project has been particularly interesting for you?
 
-- Happiness level, 1 to 10?
+- Do you feel like you're growing in your role? What makes you say that?
 
-- What’s the worst part about your job?
+- What do you think you could be doing differently?
 
 ## Other
 
-- What would you be doing right now if we weren’t having this meeting? How do you feel about being taken away from that task?
+- As a kid, what did you want to be when you grew up?
 
-- What’s one thing we could change about work for you that would improve your personal life?
+- What would you be doing right now if we weren’t having this meeting? How do you feel about being taken away from that task?
 
 - If you had millions of dollars, what would you do every day?
 
 ## Team and company
 
-- What are we not doing that we should be doing? What makes you say that?
+- Could you tell me a little more about that?
 
-- Are there any aspects of our culture you wish you could change?
+- How well do you feel like you relate to you coworkers? Do you view them as friends, acquaintances, or strangers?
 
-- What’s one thing we should change about how our team works together?
+- What do you think about _________?
 
 ## Work-life
 
-- What areas of your work are you confident about?
+- What worries you?
 
-- What do you do when you feel low energy or unmotivated?
+- What’s an inexpensive thing we could do to improve our office environment?
 
-- What are your most significant accomplishments since we last met?
+- What, if anything, did you used to do that you find you don’t have time for right now?
 
 <!-- end of questions -->
 ### Key Updates 🔑
