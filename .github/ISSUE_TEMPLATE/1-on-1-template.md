@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- Do you have any feedback for me?
-
-- Which areas would you like more or less direction from me on your work?
-
 - How do you prefer to receive feedback?
+
+- What would you like to see change about these discussions? How could we make them more useful for you?
+
+- How can I make your days more fulfilling?
 
 ## Career development
 
-- What are your long term goals? Have you thought about them?
+- Where do you see your career in the next (2/5/10) years?
 
-- Is there an aspect of your job you would like more help or coaching?
+- What are your big dreams in life? Are you making progress on them?
 
-- Who in the company would you like to learn from? What do you want to learn?
+- Which career or development goals do you feel like you’re not able to focus on right now?
 
 ## Conversation starters
 
-- What's something I don't know, but should?
+- Tell me a story...
 
-- If they have children: How is [name of child] doing? (Ask something related to their age like starting school, playing sports, or other interests.)
+- Tell me about your week – what’s it been like?
 
-- How’s it going?
+- How was your weekend?
 
 ## Job satisfaction
 
-- What would convince you to leave for a job somewhere else?
+- How do you think of your current workload and how are you coping with them?
 
-- What’s working well for you in your current position?
+- Are you happy with your recent work? Why or why not?
 
-- What have you tried so far to make progress on it?
+- When was the time you enjoyed working here the most?
 
 ## Other
 
-- What’s one thing we could change about work for you that would improve your personal life?
+- What did you do for fun in the past that you haven’t had as much time for lately?
+
+- What ideas can you bring in from past successes?
 
 - What questions do you have about the project?
 
-- What would you be doing right now if we weren’t having this meeting? How do you feel about being taken away from that task?
-
 ## Team and company
 
-- What areas are ahead of schedule?
+- How would you describe the personality of the team? What sort of person would be a good fit here? What sort of person would add something we're currently missing?
 
-- What could you have done differently?
+- Who inspire you in the team? Whose opinions do you respect? What have they done?
 
-- What are some ways we could improve at teamwork? What makes you say that?
+- What would you like to learn more about this year?
 
 ## Work-life
 
-- How do you feel about your work/life balance?
+- If you could change one thing about your job today, what would you change?
 
-- What part of the day do you have the most energy and focus? When do you have the least? What changes could we make to your work schedule to accommodate this?
+- What does your ideal weekday look like?
 
-- What, if anything, did you used to do that you find you don’t have time for right now?
+- What obstacles are you encountering right now?
 
 <!-- end of questions -->
 ### Key Updates 🔑
