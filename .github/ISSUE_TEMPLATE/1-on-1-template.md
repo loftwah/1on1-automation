@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- How do you prefer to receive feedback?
+- I’ve noticed that our last several 1-on-1s have stayed pretty surface. What are your honest impressions of this meeting? What could we be doing differently or better?
 
-- What would you like to see change about these discussions? How could we make them more useful for you?
+- Do you feel you’re getting enough feedback? Why/why not?
 
-- How can I make your days more fulfilling?
+- What can I do to make your job easier?
 
 ## Career development
 
-- Where do you see your career in the next (2/5/10) years?
-
-- What are your big dreams in life? Are you making progress on them?
-
 - Which career or development goals do you feel like you’re not able to focus on right now?
+
+- What skills are required to reach your goals?
+
+- Do you have the tools you need to reach your goals?
 
 ## Conversation starters
 
-- Tell me a story...
+- So, what’s on your mind? (or Anything on your mind?)
 
-- Tell me about your week – what’s it been like?
+- Would you update me on Project X?
 
-- How was your weekend?
+- Outside of work if there is anything going on, Is there anything you’d like to talk about?
 
 ## Job satisfaction
 
-- How do you think of your current workload and how are you coping with them?
+- What was that experience like for you?
 
-- Are you happy with your recent work? Why or why not?
+- How do you feel your work/life balance is right now?
 
-- When was the time you enjoyed working here the most?
+- What’s the best part of your job?
 
 ## Other
 
-- What did you do for fun in the past that you haven’t had as much time for lately?
-
-- What ideas can you bring in from past successes?
+- What’s one thing we could change about work for you that would improve your personal life?
 
 - What questions do you have about the project?
 
+- What haven’t you tried yet?
+
 ## Team and company
 
-- How would you describe the personality of the team? What sort of person would be a good fit here? What sort of person would add something we're currently missing?
+- How could we be more creative or innovative as a company?
 
-- Who inspire you in the team? Whose opinions do you respect? What have they done?
+- What’s an inexpensive thing we could do to improve our office environment for the team?
 
-- What would you like to learn more about this year?
+- What are some possible ways to get the solution you need?
 
 ## Work-life
 
+- How are you feeling about work?
+
+- What do you do when you feel low energy or unmotivated?
+
 - If you could change one thing about your job today, what would you change?
-
-- What does your ideal weekday look like?
-
-- What obstacles are you encountering right now?
 
 <!-- end of questions -->
 ### Key Updates 🔑
