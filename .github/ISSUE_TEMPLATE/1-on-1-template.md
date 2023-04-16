@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- How can I make your days more fulfilling?
+- What can I do to help you achieve you current goals and priorities?
 
-- How can I better support you?
+- What can I do better or differently as your manager to support you?
 
-- If you were me, what changes would you make?
+- What is something I could do better? What feedback do you have for me?
 
 ## Career development
 
-- What are your big dreams in life? Are you making progress on them?
-
-- What do you want to do in your next job?
-
 - What do you see as the next step in your career?
+
+- What skills do you have that you think are underutilized?
+
+- Imagine it’s two years from now, and things have gone well: What has been your role in that? What does your role look like?
 
 ## Conversation starters
 
-- How was your weekend?
+- How’s it going?
 
-- What's something I don't know, but should?
+- Tell me about your family/weekend/ activities?
 
-- If around a holiday: Do you celebrate [Holiday]? If so, can I ask what are you plans?
+- What have you been doing for fun lately?
 
 ## Job satisfaction
 
-- How are you feeling about the project?
+- Can you name three things we can do to help so you can enjoy your job more?What is the best accomplishment you had since you are here? Do you feel appreciated for it?
 
-- If you could change what happened, how would you alter it?
+- What’s the best part of your job?
 
-- What talents do you have that you feel we are fully utilizing?  Which of your talents are we not fully leveraging?
+- What have you tried so far to make progress on it?
 
 ## Other
-
-- How are things going for you outside of work?
 
 - What questions do you have about the project?
 
 - What’s one thing we could change about work for you that would improve your personal life?
 
+- What did you do for fun in the past that you haven’t had as much time for lately?
+
 ## Team and company
 
-- What is the company not doing today that we should do to better compete in the market?
+- How is the new situation/development affecting your work? What could be getting in the way of your being effective?
 
-- Do you feel adequately supported by other team members? What makes you say that?
+- Which company values do you like the most? Which the least? Why?
 
-- What’s the biggest opportunity we’re missing out on?
+- What’s the number one problem within our organization? Why?
 
 ## Work-life
 
-- What are you doing for yourself outside of work?
+- What about your job is most satisfying for you?
 
-- What makes you excited and motivated to work on a project?
+- What could we change about work that would improve the rest of your life?
 
-- What is the most important thing we need to discuss today?
+- What are the most important things you will focus on before we meet next?
 
 <!-- end of questions -->
 ### Key Updates 🔑
