@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- What additional resources can I provide for you between now and the next time we meet?
+- Which areas would you like more or less direction from me on your work?
 
-- How could I do a better job communicating with you?
+- Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?
 
-- Do you feel you’re getting enough feedback? Why/why not?
+- What is the biggest challenge you are currently facing? How can I help with that?
 
 ## Career development
 
-- What can you do to take action or make progress on what we talked about today?
+- What do you see as the next step in your career?
 
-- What capabilities do you want to develop?
+- Do you have the tools you need to reach your goals?
 
-- What are your goals (for our group for you personally)
+- What do you want to be doing in 5 years? 10 years? 3 years?
 
 ## Conversation starters
 
+- Tell me about your family/weekend/ activities?
+
+- Hey, what’s going on?
+
 - What have you been doing for fun lately?
-
-- Tell me about your week – what’s it been like?
-
-- How are your parents/grandparents? Where do they live? Do you visit them?
 
 ## Job satisfaction
 
-- What would convince you to leave for a job somewhere else?
+- Which parts of your project are unclear or confusing?
 
-- How did that affect you?
+- What are your biggest concerns about your current project(s)?
 
-- What’s one thing about your job that, if we fixed, would make you never want to leave?
+- In what ways does your current position allow you to use your skills and talents?
 
 ## Other
 
-- What haven’t you tried yet?
+- What ideas can you bring in from past successes?
 
-- As a kid, what did you want to be when you grew up?
+- If you had millions of dollars, what would you do every day?
 
-- What did you do for fun in the past that you haven’t had as much time for lately?
+- What would you be doing right now if we weren’t having this meeting? How do you feel about being taken away from that task?
 
 ## Team and company
 
-- What sort of resources could you use right now to make things more manageable?
+- What characteristics make someone a good fit for our team? How would you look for those characteristics in an interview?
 
-- What are some possible ways to get the solution you need?
+- What would you like to see change here? Why do you say that?
 
-- What area of the company would you like to learn more about?
+- How are you feeling about the recent news? Why do you say that?
 
 ## Work-life
 
-- Is there anything that you’re struggling with?
-
 - How can I help…? (be more productive/happier at work/enjoy work more/etc)
 
-- What could we change about work that would improve the rest of your life?
+- What are 3 things could we do to improve your productivity if money was no object?
+
+- When is your next vacation?
 
 <!-- end of questions -->
 ### Key Updates 🔑
