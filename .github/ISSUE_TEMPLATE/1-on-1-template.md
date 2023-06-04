@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- How can I make your days more fulfilling?
+- I’ve noticed that our last several 1-on-1s have stayed pretty surface. What are your honest impressions of this meeting? What could we be doing differently or better?
 
-- What can I be doing better to help you in your job?
+- At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?
 
-- What can I do to help remove obstacles?
+- What’s your favorite thing I do as a manager of this team I should keep doing?
 
 ## Career development
 
-- What additional training or education would you like?
-
 - What development areas do you want to work on in the coming weeks?
 
-- What skills would you like to develop right now?
+- Are there any events or training you’d like to attend to help you grow your skills?
+
+- Which career or development goals do you feel like you’re not able to focus on right now?
 
 ## Conversation starters
 
-- What would you like to focus on at this meeting?
+- How are you? How is life outside of work?
 
-- Are you on track to meet the deadline?
+- Hey, what’s going on?
 
 - Tell me a story...
 
 ## Job satisfaction
 
-- If you could work on anything for the next month, what would it be? What makes you say that?
+- When was the time you enjoyed working here the most?
 
-- What talents do you have that you feel we are fully utilizing?  Which of your talents are we not fully leveraging?
+- What interests you about the project(s) you’re currently working on, and why?
 
-- What do you like most about your job today?
+- Do you think our company is loyal to its employees? Why or why not?
 
 ## Other
 
-- What did you do for fun in the past that you haven’t had as much time for lately?
+- If you had millions of dollars, what would you do every day?
+
+- What haven’t you tried yet?
 
 - What questions do you have about the project?
 
-- How are things going for you outside of work?
-
 ## Team and company
 
-- How are you feeling about the recent news? Why do you say that?
+- What’s something you feel is undervalued that you contribute to the team?
 
-- How could we change our team meetings to be more effective?
+- What do you do when you get stuck on something? What is your process of getting unstuck? Who is the team member you turn to for help?
 
-- What’s the biggest thing you’d like to change about our team?
+- What excites you about our business?  The company?  What concerns you?
 
 ## Work-life
 
-- Is there anything that you’re struggling with?
+- What could we change about work that would improve the rest of your life?
 
-- What worries you? What’s on your mind?
+- What are the most important things you will focus on before we meet next?
 
-- What were your biggest time wasters or roadblocks last week or the week before?
+- How are you feeling about work?
 
 <!-- end of questions -->
 ### Key Updates 🔑
