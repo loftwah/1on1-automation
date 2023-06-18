@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- I’m trying to make my 1-on-1s better and would appreciate your honest feedback on this one — what did you like about it, and what could be improved?
+- Do you have any feedback for me?
 
-- What’s your favorite thing I do as a manager of this team I should keep doing?
+- What would you like to know about me?
 
-- What would you like to see change about these discussions? How could we make them more useful for you?
+- What can I do to help you enjoy your work more or remove roadblocks to progress?
 
 ## Career development
 
-- What would you like to learn about in the future?
+- Where do you see your career in the next (2/5/10) years?
 
-- Could you see yourself making progress on more of your goals here? What would need to change to do so?
+- What additional training or education would you like?
 
-- How do you think about your progress on your big goals? What needs to be done to move towards the goals? What can we do to help?
+- What are your goals (for our group for you personally)
 
 ## Conversation starters
 
-- How are your parents/grandparents? Where do they live? Do you visit them?
+- Hey, what’s going on?
 
-- What do you like to do in your free time? What are your hobbies?
+- If they have children: How is [name of child] doing? (Ask something related to their age like starting school, playing sports, or other interests.)
 
-- What have you been doing for fun lately?
+- Tell me about your week – what’s it been like?
 
 ## Job satisfaction
 
-- What’s the worst part about your job?
+- What do you feel is your greatest accomplishment here?
 
-- How do you think that least favorite thing affects your overall performance?
+- How did that make you feel?
 
-- What do you need or want to accomplish and by when?
+- Which areas make you feel like your hands are tied or you are unable to reach your full potential?
 
 ## Other
 
-- What’s one thing we could change about work for you that would improve your personal life?
+- What haven’t you tried yet?
+
+- What questions do you have about the project?
 
 - What did you do for fun in the past that you haven’t had as much time for lately?
 
-- If you had millions of dollars, what would you do every day?
-
 ## Team and company
 
-- What’s an inexpensive thing we could do to improve our office environment for the team?
+- Are there any meetings or discussions you feel you should be a part of that you’re not? Are you included in any you don’t want to be a part of?
 
-- What’s the No. 1 problem with our organization? Why?
+- If we could improve in any way, how would we do it?
 
-- Can you share some of the details around that particular issue? (Who was involved? Where? When? For how long?)
+- What kind of communication or information do you wish you had more of?
 
 ## Work-life
 
 - What, if anything, did you used to do that you find you don’t have time for right now?
 
-- What are the biggest time wasters for you each week?
+- What were your biggest time wasters or roadblocks last week or the week before?
 
-- Which part of the day do you feel most productive? When do you feel that your energy and focus are at the lowest level? What are the changes that can be made so you can take the best out of a work day?
+- How are you feeling about work?
 
 <!-- end of questions -->
 ### Key Updates 🔑
