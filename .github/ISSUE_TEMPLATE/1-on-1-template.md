@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- Do you have any feedback for me?
-
 - What would you like to know about me?
 
-- What can I do to help you enjoy your work more or remove roadblocks to progress?
+- Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?
+
+- How might I make this project more challenging or interesting for you?
 
 ## Career development
 
-- Where do you see your career in the next (2/5/10) years?
+- What would you like to learn about in the future?
 
 - What additional training or education would you like?
 
-- What are your goals (for our group for you personally)
+- What’s one thing we could do today to help you with your long term goals?
 
 ## Conversation starters
 
-- Hey, what’s going on?
+- What would you like to start with?
 
-- If they have children: How is [name of child] doing? (Ask something related to their age like starting school, playing sports, or other interests.)
+- How is your family?
 
-- Tell me about your week – what’s it been like?
+- If around a holiday: Do you celebrate [Holiday]? If so, can I ask what are you plans?
 
 ## Job satisfaction
 
-- What do you feel is your greatest accomplishment here?
+- In what ways does your current position allow you to use your skills and talents?
 
-- How did that make you feel?
+- If you could work on anything for the next month, what would it be? What makes you say that?
 
-- Which areas make you feel like your hands are tied or you are unable to reach your full potential?
+- What’s the best part of your job?
 
 ## Other
 
 - What haven’t you tried yet?
 
-- What questions do you have about the project?
+- What would you be doing right now if we weren’t having this meeting? How do you feel about being taken away from that task?
 
-- What did you do for fun in the past that you haven’t had as much time for lately?
+- If you had millions of dollars, what would you do every day?
 
 ## Team and company
 
-- Are there any meetings or discussions you feel you should be a part of that you’re not? Are you included in any you don’t want to be a part of?
+- How would you say we're doing at working together as team? What makes you say that?
 
-- If we could improve in any way, how would we do it?
+- What areas are ahead of schedule?
 
-- What kind of communication or information do you wish you had more of?
+- What concerns do you have about the change that haven't been addressed?
 
 ## Work-life
 
 - What, if anything, did you used to do that you find you don’t have time for right now?
 
-- What were your biggest time wasters or roadblocks last week or the week before?
+- What are your most significant accomplishments since we last met?
 
-- How are you feeling about work?
+- What were your biggest time wasters or roadblocks last week or the week before?
 
 <!-- end of questions -->
 ### Key Updates 🔑
