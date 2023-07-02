@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- What would you like to know about me?
-
-- Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?
-
 - How might I make this project more challenging or interesting for you?
+
+- What can I do as a manager to make your work easier?
+
+- What are your impressions of our 1-on-1s? What could we do differently or better?
 
 ## Career development
 
-- What would you like to learn about in the future?
+- Where do you see yourself in three years? Five years?
 
-- What additional training or education would you like?
+- What areas of your job do you find difficult that getting better skills at would help?
 
-- What’s one thing we could do today to help you with your long term goals?
+- Have you ever felt undervalued here?
 
 ## Conversation starters
 
-- What would you like to start with?
+- Tell me about your family/weekend/ activities?
 
-- How is your family?
+- Tell me about what you’ve been working on.
 
-- If around a holiday: Do you celebrate [Holiday]? If so, can I ask what are you plans?
+- Are you on track to meet the deadline?
 
 ## Job satisfaction
 
-- In what ways does your current position allow you to use your skills and talents?
+- What’s one thing that could make your work more satisfying, and why?
 
-- If you could work on anything for the next month, what would it be? What makes you say that?
+- Are you happy with your recent work? Why or why not?
 
-- What’s the best part of your job?
+- Do you feel over-worked, under-worked, or just the right workload?
 
 ## Other
 
-- What haven’t you tried yet?
-
-- What would you be doing right now if we weren’t having this meeting? How do you feel about being taken away from that task?
+- As a kid, what did you want to be when you grew up?
 
 - If you had millions of dollars, what would you do every day?
 
+- How are things going for you outside of work?
+
 ## Team and company
 
-- How would you say we're doing at working together as team? What makes you say that?
+- What’s the No. 1 problem with our organization, and what do you think's causing it?
+
+- What is the company not doing today that we should do to better compete in the market?
 
 - What areas are ahead of schedule?
 
-- What concerns do you have about the change that haven't been addressed?
-
 ## Work-life
 
-- What, if anything, did you used to do that you find you don’t have time for right now?
+- Is there anything you’d like to be doing on your own time to relieve stress that you’re not getting to? How can I help you achieve those personal goals?
+
+- What is the most important thing we need to discuss today?
 
 - What are your most significant accomplishments since we last met?
-
-- What were your biggest time wasters or roadblocks last week or the week before?
 
 <!-- end of questions -->
 ### Key Updates 🔑
