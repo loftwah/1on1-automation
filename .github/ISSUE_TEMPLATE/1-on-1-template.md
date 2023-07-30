@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- How can I better support you?
+- What aspects of your work would you like more or less direction from me?
 
-- I’ve noticed that our last several 1-on-1s have stayed pretty surface. What are your honest impressions of this meeting? What could we be doing differently or better?
+- What can I be doing better to help you in your job?
 
-- What is the percentage of my involvement in your daily tasks? Would you prefer more or less?
+- At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?
 
 ## Career development
 
-- Where do you see your career in 1 year, 3 years? What can you do to make sure you reach those goals? How can we as HR help you to reach those goals (assuming the goals relate to the company)?
+- What areas of your job do you find difficult that getting better skills at would help?
 
-- What parts of your job would you like to deepen your skills in or get additional training in?
+- How do you feel you are progressing in your career?
 
-- Which part of the work here do you feel as most relevant to your long-term goals? What kinds of projects do you want to take part in to move toward your goals?
+- Do you feel like you are learning at work? What are the new things you learned lately? What are the areas you want to learn about?
 
 ## Conversation starters
 
-- Tell me a story...
+- What can I do to make your day better?
+
+- How are you? How is life outside of work?
 
 - Outside of work if there is anything going on, Is there anything you’d like to talk about?
 
-- What would you like to focus on at this meeting?
-
 ## Job satisfaction
 
-- How are you feeling about the project?
+- What aspect of this project has been particularly interesting for you?
 
-- I’ve noticed X about the project… Can you help me understand that better? Talk me through your process.
+- In what ways does your current position allow you to use your skills and talents?
 
-- What could I do to make you enjoy your work more?
+- What are you most worried about?
 
 ## Other
 
 - How are things going for you outside of work?
 
-- What did you do for fun in the past that you haven’t had as much time for lately?
-
 - What haven’t you tried yet?
+
+- If you had millions of dollars, what would you do every day?
 
 ## Team and company
 
-- What’s the number one problem within our organization? Why?
+- What characteristics make someone a good fit for our team? How would you look for those characteristics in an interview?
 
-- Is there a situation you’d like my help with?
+- Are there any roles in the company you’d like to learn more about?
 
-- Do you feel like you’re on the same page with the team? How often do you think you need meetings to ensure you stay that way?
+- Is there anything that’s slowing you down from getting your work done?
 
 ## Work-life
 
-- What does your ideal weekday look like?
+- What worries you?
 
-- What are 3 things could we do to improve your productivity if money was no object?
+- How are you planning to balance work and personal life this year?
 
-- What could we change about work that would improve the rest of your life?
+- What obstacles are you encountering right now?
 
 <!-- end of questions -->
 ### Key Updates 🔑
