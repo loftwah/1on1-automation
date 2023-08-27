@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- What can I do to help you enjoy your work more or remove roadblocks to progress?
+- At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?
 
-- Where do you think I can be most helpful?
+- Do you have any feedback for me?
 
-- What can I do to make things more manageable?
+- What can I do for you that I'm not?
 
 ## Career development
 
-- Imagine it’s two years from now, and things have gone well: What has been your role in that? What does your role look like?
+- How do you feel you are progressing in your career?
 
-- What skills would you like to develop right now?
+- Have you given any more thought to your long-term goals since our last meeting? What are your latest thoughts?
 
-- What are some of the work projects you’re most proud of, and what do you think you might want to do next?
+- What big questions do you have about your career opportunities in the future?
 
 ## Conversation starters
 
-- Tell me a story...
+- Tell me about last week.
 
-- So, what’s on your mind? (or Anything on your mind?)
+- How’s it going?
 
-- If they have children: How is [name of child] doing? (Ask something related to their age like starting school, playing sports, or other interests.)
+- Tell me about your week – what’s it been like?
 
 ## Job satisfaction
 
-- How are you feeling about your role?
-
 - How did that make you feel?
 
-- What do you enjoy the most in your current role?
+- Do you feel over-worked, under-worked, or just the right workload?
+
+- What are you most excited about?
 
 ## Other
 
-- If you had millions of dollars, what would you do every day?
+- What haven’t you tried yet?
+
+- What ideas can you bring in from past successes?
 
 - How are things going for you outside of work?
 
-- What’s one thing we could change about work for you that would improve your personal life?
-
 ## Team and company
 
-- How are you feeling about the recent news? Why do you say that?
+- What’s going well and not so well with the new situation/development? Why do you think this might be happening?
 
-- What’s the biggest thing you’d like to change about our team?
+- What’s the biggest opportunity we’re missing out on?
 
-- Who is really kicking ass in the company? Who do you admire?
+- What are we doing that you think we should stop doing, and why?
 
 ## Work-life
 
-- What about your job is most satisfying for you?
+- What worries you?
 
-- What, if anything, did you used to do that you find you don’t have time for right now?
+- Is there anything that you’re struggling with?
 
-- What questions do you have about this project?
+- What are the biggest time wasters for you each week?
 
 <!-- end of questions -->
 ### Key Updates 🔑
