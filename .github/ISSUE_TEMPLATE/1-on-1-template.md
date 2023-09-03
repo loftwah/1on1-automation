@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?
+- How might I make this project more challenging or interesting for you?
 
-- Do you have any feedback for me?
+- What is the one thing that you need the most from me?
 
-- What can I do for you that I'm not?
+- What are your thoughts on my changes?
 
 ## Career development
 
-- How do you feel you are progressing in your career?
-
-- Have you given any more thought to your long-term goals since our last meeting? What are your latest thoughts?
-
 - What big questions do you have about your career opportunities in the future?
+
+- What are the projects you would be interested in working on next?
+
+- Is there a different way we can develop your skills   outside of traditional training?
 
 ## Conversation starters
 
-- Tell me about last week.
+- What would you like to start with?
 
-- How’s it going?
+- Are you on track to meet the deadline?
 
-- Tell me about your week – what’s it been like?
+- How are you? How is life outside of work?
 
 ## Job satisfaction
 
-- How did that make you feel?
+- What’s working well for you in your current position?
 
-- Do you feel over-worked, under-worked, or just the right workload?
+- Are you happy here? What makes you say that?
 
-- What are you most excited about?
+- I’ve noticed X about the project… Can you help me understand that better? Talk me through your process.
 
 ## Other
 
-- What haven’t you tried yet?
+- What did you do for fun in the past that you haven’t had as much time for lately?
 
-- What ideas can you bring in from past successes?
+- If you had millions of dollars, what would you do every day?
 
 - How are things going for you outside of work?
 
 ## Team and company
 
-- What’s going well and not so well with the new situation/development? Why do you think this might be happening?
+- What are we not doing that we should be doing? What makes you say that?
 
-- What’s the biggest opportunity we’re missing out on?
+- Can you share some of the details around that particular issue? (Who was involved? Where? When? For how long?)
 
-- What are we doing that you think we should stop doing, and why?
+- How would you say we're doing at working together as team? What makes you say that?
 
 ## Work-life
 
-- What worries you?
+- How can I help…? (be more productive/happier at work/enjoy work more/etc)
 
-- Is there anything that you’re struggling with?
+- What are 3 things could we do to improve your productivity if money was no object?
 
-- What are the biggest time wasters for you each week?
+- What about your job is most satisfying for you?
 
 <!-- end of questions -->
 ### Key Updates 🔑
