@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- How might I make this project more challenging or interesting for you?
+- What can I do to make things more manageable?
 
-- What is the one thing that you need the most from me?
+- I’m trying to make my 1-on-1s better and would appreciate your honest feedback on this one — what did you like about it, and what could be improved?
 
-- What are your thoughts on my changes?
+- Where do you think I can be most helpful?
 
 ## Career development
 
+- What professional goals would you like to accomplish in the next 6 to 12 months, and what makes you say that?
+
 - What big questions do you have about your career opportunities in the future?
 
-- What are the projects you would be interested in working on next?
-
-- Is there a different way we can develop your skills   outside of traditional training?
+- What skills do you have that you think are underutilized?
 
 ## Conversation starters
 
-- What would you like to start with?
-
-- Are you on track to meet the deadline?
-
 - How are you? How is life outside of work?
+
+- How’s it going?
+
+- Would you update me on Project X?
 
 ## Job satisfaction
 
-- What’s working well for you in your current position?
+- What interests you about the project(s) you’re currently working on, and why?
 
-- Are you happy here? What makes you say that?
+- What’s a recent situation you wish you handled differently? What would you change?
 
-- I’ve noticed X about the project… Can you help me understand that better? Talk me through your process.
+- What are you most excited about?
 
 ## Other
 
+- What’s one thing we could change about work for you that would improve your personal life?
+
+- As a kid, what did you want to be when you grew up?
+
 - What did you do for fun in the past that you haven’t had as much time for lately?
-
-- If you had millions of dollars, what would you do every day?
-
-- How are things going for you outside of work?
 
 ## Team and company
 
-- What are we not doing that we should be doing? What makes you say that?
+- Which areas would you would like more feedback on?
 
-- Can you share some of the details around that particular issue? (Who was involved? Where? When? For how long?)
+- What additional resources from me would be helpful for you as you solve this problem?
 
 - How would you say we're doing at working together as team? What makes you say that?
 
 ## Work-life
 
-- How can I help…? (be more productive/happier at work/enjoy work more/etc)
+- What part of the day do you have the most energy and focus? When do you have the least? What changes could we make to your work schedule to accommodate this?
 
-- What are 3 things could we do to improve your productivity if money was no object?
+- How are you going to approach this?
 
-- What about your job is most satisfying for you?
+- What was difficult this week? what have you learned?
 
 <!-- end of questions -->
 ### Key Updates 🔑
