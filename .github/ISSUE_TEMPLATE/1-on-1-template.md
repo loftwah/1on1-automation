@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- What can I do to make things more manageable?
+- How might I make this project more challenging or interesting for you?
 
-- I’m trying to make my 1-on-1s better and would appreciate your honest feedback on this one — what did you like about it, and what could be improved?
+- How could I do a better job communicating with you?
 
-- Where do you think I can be most helpful?
+- What is the biggest challenge you are currently facing? How can I help with that?
 
 ## Career development
 
-- What professional goals would you like to accomplish in the next 6 to 12 months, and what makes you say that?
+- Where do you see yourself in three years? Five years?
 
-- What big questions do you have about your career opportunities in the future?
+- Are there any projects you’d really like to work on if you were given the opportunity?
 
-- What skills do you have that you think are underutilized?
+- If you were to create your ideal position, how would it differ from what you are currently doing?
 
 ## Conversation starters
 
-- How are you? How is life outside of work?
+- So, what’s on your mind? (or Anything on your mind?)
 
-- How’s it going?
+- Tell me a story...
 
-- Would you update me on Project X?
+- What have you been doing for fun lately?
 
 ## Job satisfaction
 
-- What interests you about the project(s) you’re currently working on, and why?
+- What’s the best part of your job?
 
 - What’s a recent situation you wish you handled differently? What would you change?
 
-- What are you most excited about?
+- How many hours a day do you feel you’re productive? How could we help you be more productive?
 
 ## Other
 
+- What questions do you have about the project?
+
 - What’s one thing we could change about work for you that would improve your personal life?
 
-- As a kid, what did you want to be when you grew up?
-
-- What did you do for fun in the past that you haven’t had as much time for lately?
+- What would you be doing right now if we weren’t having this meeting? How do you feel about being taken away from that task?
 
 ## Team and company
 
-- Which areas would you would like more feedback on?
+- What’s the No. 1 problem with our organization? Why?
 
-- What additional resources from me would be helpful for you as you solve this problem?
+- Are there any meetings or discussions you feel you should be a part of that you’re not? Are you included in any you don’t want to be a part of?
 
-- How would you say we're doing at working together as team? What makes you say that?
+- What’s an inexpensive thing we could do to improve our office environment for the team?
 
 ## Work-life
 
-- What part of the day do you have the most energy and focus? When do you have the least? What changes could we make to your work schedule to accommodate this?
+- What does your ideal weekday look like?
 
-- How are you going to approach this?
+- What were your biggest time wasters or roadblocks last week or the week before?
 
-- What was difficult this week? what have you learned?
+- When is your next vacation?
 
 <!-- end of questions -->
 ### Key Updates 🔑
