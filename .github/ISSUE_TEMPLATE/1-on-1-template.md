@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- What would you like to know about me?
+- What is the one thing that you need the most from me?
 
-- How do you prefer to receive feedback?
+- What aspects of your work would you like more or less direction from me?
 
-- Are there any obstacles I can remove for you?
+- What do you like about my management style? What do you dislike?
 
 ## Career development
 
-- During this meeting you’ve mentioned that you’d like to pursue X. What steps can you take toward that before our next 1-on-1?
-
 - Could you see yourself making progress on more of your goals here? What would need to change to do so?
 
-- Is there a different way we can develop your skills   outside of traditional training?
+- Where do you see your career in 1 year, 3 years? What can you do to make sure you reach those goals? How can we as HR help you to reach those goals (assuming the goals relate to the company)?
+
+- What can I do to take action or make progress on what we talked about today?
 
 ## Conversation starters
 
+- What would you like to start with?
+
 - Would you like to walk today, or go somewhere else outside the office?
 
-- Would you update me on Project X?
-
-- Tell me about your week – what’s it been like?
+- If they have children: How is [name of child] doing? (Ask something related to their age like starting school, playing sports, or other interests.)
 
 ## Job satisfaction
 
-- Which areas make you feel like your hands are tied or you are unable to reach your full potential?
+- If you could change what happened, how would you alter it?
 
-- What’s your No. 1 problem right now? How are you feeling about it?
+- What talents do you have that you feel we are fully utilizing?  Which of your talents are we not fully leveraging?
 
-- Which parts of your project are unclear or confusing?
+- How are you feeling about the project?
 
 ## Other
 
-- What would you be doing right now if we weren’t having this meeting? How do you feel about being taken away from that task?
+- If you had millions of dollars, what would you do every day?
+
+- How are things going for you outside of work?
 
 - What’s one thing we could change about work for you that would improve your personal life?
 
-- What did you do for fun in the past that you haven’t had as much time for lately?
-
 ## Team and company
 
-- What do you think about the amount of feedback in our team? When do others give feedback to you? Would you like to hear more feedback from other team member and me?
+- What are we not doing that we should be doing? What makes you say that?
 
-- What’s going well and not so well with the new situation/development? Why do you think this might be happening?
+- Is your job what you expected when you accepted it?
 
-- Do you feel adequately supported by other team members? What makes you say that?
+- Who on the team do you have the most difficulty working with? Why?
 
 ## Work-life
 
-- What worries you?
+- What stands in your way?
 
-- What could we change about work that would improve the rest of your life?
+- When you get stuck on something, what is your process for getting unstuck? Who do you turn to for help?
 
-- What areas of your work are you confident about?
+- What are your most significant accomplishments since we last met?
 
 <!-- end of questions -->
 ### Key Updates 🔑
