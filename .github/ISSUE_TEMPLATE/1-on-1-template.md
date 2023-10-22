@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- What aspect of your job you would like more help or coaching?
+- What aspects of your work would you like more or less direction from me?
 
-- What can I do for you that I'm not?
+- What do you think I should know about the project, but might not?
 
-- Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?
+- What is something I could do better? What feedback do you have for me?
 
 ## Career development
 
-- During this meeting you’ve mentioned that you’d like to pursue X. What steps can you take toward that before our next 1-on-1?
+- What are two to three new skills you’d like to learn on the job? What about those skills interests you?
 
-- What do you want to be doing in 5 years? 10 years? 3 years?
+- What do you want to do in your next job?
 
-- Where do you see your career in 1 year, 3 years? What can you do to make sure you reach those goals? How can we as HR help you to reach those goals (assuming the goals relate to the company)?
+- Who in the company would you like to learn from? What do you want to learn?
 
 ## Conversation starters
 
-- Who do you really admire? Why? (People often admire those they want to become)
+- Outside of work if there is anything going on, Is there anything you’d like to talk about?
 
-- What's something I don't know, but should?
+- Tell me about your week – what’s it been like?
 
-- What do you like to do in your free time? What are your hobbies?
+- How was your weekend?
 
 ## Job satisfaction
 
-- What’s your No. 1 problem right now? How are you feeling about it?
+- What do you like the least?
 
-- What do you think you could be doing differently?
+- How are you feeling about your role?
 
-- If you could work on anything for the next month, what would it be? What makes you say that?
+- What did you like most/least about that?
 
 ## Other
 
+- What’s one thing we could change about work for you that would improve your personal life?
+
 - What did you do for fun in the past that you haven’t had as much time for lately?
 
-- As a kid, what did you want to be when you grew up?
-
-- What’s one thing we could change about work for you that would improve your personal life?
+- What questions do you have about the project?
 
 ## Team and company
 
-- Could you tell me a little more about that?
+- What are some ways we could improve at teamwork? What makes you say that?
 
-- Do you feel like you’re on the same page with the team? How often do you think you need meetings to ensure you stay that way?
+- What are your favorite parts about our culture?
 
-- What do you like about working here? What’s not fun about working here?
+- What sort of resources could you use right now to make things more manageable?
 
 ## Work-life
 
-- What’s an inexpensive thing we could do to improve our office environment?
+- How are you feeling about work?
 
-- What could we change about work that would improve the rest of your life?
+- What are the most important things you will focus on before we meet next?
 
-- Is there anything that you need from me?
+- What are you doing for yourself outside of work?
 
 <!-- end of questions -->
 ### Key Updates 🔑
