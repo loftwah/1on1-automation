@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- How do you prefer to receive feedback?
+- What are your impressions of our 1-on-1s? What could we do differently or better?
 
-- What could I do as a manager to make your work easier?
+- How might I make this project more challenging or interesting for you?
 
-- What can I do to help you?
+- As your manager, what would you like me to stop, start, or continue doing?
 
 ## Career development
 
-- What are the projects you would be interested in working on next?
+- Who in the company would you like to learn from? What do you want to learn?
 
-- What about this goal is important to you and what will be different when you achieve the goal?
+- Tell me about something new you learned since we met last.
 
-- What are your goals (for our group for you personally)
+- What are your super powers? What powers would you like to develop?
 
 ## Conversation starters
 
+- Tell me about your family/weekend/ activities?
+
+- What do you like to do in your free time? What are your hobbies?
+
 - How is your family?
-
-- What's something I don't know, but should?
-
-- Tell me about your week – what’s it been like?
 
 ## Job satisfaction
 
-- What do you think caused that to happen?
+- What could I do to make you enjoy your work more?
 
-- What’s the worst part about your job?
+- What’s one thing about your job that, if we fixed, would make you never want to leave?
 
-- Do you feel over-worked, under-worked, or just the right workload?
+- How are you feeling about your role?
 
 ## Other
 
-- What would you be doing right now if we weren’t having this meeting? How do you feel about being taken away from that task?
+- What’s one thing we could change about work for you that would improve your personal life?
 
-- As a kid, what did you want to be when you grew up?
+- What haven’t you tried yet?
 
-- What did you do for fun in the past that you haven’t had as much time for lately?
+- If you had millions of dollars, what would you do every day?
 
 ## Team and company
 
-- What is the company not doing today that we should do to better compete in the market?
+- Has anyone on the team ever made you feel uncomfortable? What happened?
 
-- What characteristics make someone a good fit for our team? How would you look for those characteristics in an interview?
+- Who would you like to work more often with? Why?
 
-- Do you feel like you’re on the same page with the team? How often do you think you need meetings to ensure you stay that way?
+- Which areas would you would like more feedback on?
 
 ## Work-life
 
-- What was difficult this week? what have you learned?
+- What worries you?
 
-- What are 3 things could we do to improve your productivity if money was no object?
+- What are the biggest time wasters for you each week?
 
-- How are you feeling about work?
+- What about your job is most satisfying for you?
 
 <!-- end of questions -->
 ### Key Updates 🔑
