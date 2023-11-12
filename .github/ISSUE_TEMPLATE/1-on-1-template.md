@@ -13,59 +13,59 @@ Will follow the format of:
 <!-- start of questions -->
 ## About Manager
 
-- What are your impressions of our 1-on-1s? What could we do differently or better?
+- What’s your favorite thing I do as a manager of this team I should keep doing?
 
 - How might I make this project more challenging or interesting for you?
 
-- As your manager, what would you like me to stop, start, or continue doing?
+- What can I do to help you?
 
 ## Career development
 
-- Who in the company would you like to learn from? What do you want to learn?
+- What’s one thing we could do today to help you with your long term goals?
 
-- Tell me about something new you learned since we met last.
+- How do you think you did on your performance review this year? What do you think the results will be?
 
-- What are your super powers? What powers would you like to develop?
+- What can you do to take action or make progress on what we talked about today?
 
 ## Conversation starters
 
-- Tell me about your family/weekend/ activities?
+- Who do you really admire? Why? (People often admire those they want to become)
 
 - What do you like to do in your free time? What are your hobbies?
 
-- How is your family?
+- Would you update me on Project X?
 
 ## Job satisfaction
 
-- What could I do to make you enjoy your work more?
+- What’s an area of your work you want to improve?
 
-- What’s one thing about your job that, if we fixed, would make you never want to leave?
+- How are you feeling about the project?
 
-- How are you feeling about your role?
+- What would be the most helpful thing for you to take away from this conversation in order to make progress on it?
 
 ## Other
 
-- What’s one thing we could change about work for you that would improve your personal life?
+- What questions do you have about the project?
 
 - What haven’t you tried yet?
 
-- If you had millions of dollars, what would you do every day?
+- What ideas can you bring in from past successes?
 
 ## Team and company
 
-- Has anyone on the team ever made you feel uncomfortable? What happened?
+- How could we change our team meetings to be more effective?
 
-- Who would you like to work more often with? Why?
+- What’s the No. 1 problem with our organization, and what do you think's causing it?
 
-- Which areas would you would like more feedback on?
+- Is there anything that’s slowing you down from getting your work done?
 
 ## Work-life
 
-- What worries you?
+- When is your next vacation?
 
-- What are the biggest time wasters for you each week?
+- How are you going to approach this?
 
-- What about your job is most satisfying for you?
+- How can I help…? (be more productive/happier at work/enjoy work more/etc)
 
 <!-- end of questions -->
 ### Key Updates 🔑
