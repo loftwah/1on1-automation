@@ -3,7 +3,6 @@ package main
 import (
 	"net/http"
 	"os"
-	"strings"
 
 	"github.com/joho/godotenv"
 	"github.com/labstack/echo/v4"
@@ -29,7 +28,7 @@ func main() {
 	// Routes
 	e.GET("/", handleRoot)
 	e.GET("/health", handleHealthCheck)
-	e.POST("/generate-questions", handleGenerateQuestions)
+	e.GET("/generate-questions", handleGenerateQuestions)
 	e.POST("/generate-report", handleGenerateReport)
 
 	e.Logger.Fatal(e.Start(":" + getServerPort()))
@@ -52,19 +51,16 @@ func handleHealthCheck(c echo.Context) error {
 }
 
 func handleGenerateQuestions(c echo.Context) error {
-	// Define categories of questions
-	categories := []string{"About Manager", "Career development", "Conversation starters", "Job satisfaction", "Team and company", "Work-life"}
-
-	// Generate a friendly and personalized prompt for OpenAI
-	prompt := "Create a personalized and friendly set of questions for a one-on-one meeting with a manager. Include questions from the following categories: " + strings.Join(categories, ", ") + ". Format the questions in Markdown for easy readability. Advise the user that they don't have to answer anything they're not comfortable with and this is just to help guide the conversation."
+	// A simplified prompt for OpenAI to generate one-on-one meeting questions
+	prompt := "Create a set of engaging and open-ended questions for a casual and friendly one-on-one work meeting. Include questions about current projects, personal development, challenges, work satisfaction, and any positive aspects of work life. The questions should be light-hearted, aiming to encourage an honest and comfortable conversation."
 
 	response, err := services.ChatWithOpenAI(prompt)
 	if err != nil {
 		return c.String(http.StatusInternalServerError, err.Error())
 	}
 
-	// Format response in Markdown
-	markdownResponse := "### One-on-One Meeting Questions\n\n" + response
+	// Format the response in Markdown for readability
+	markdownResponse := "## One-on-One Meeting Questions\n\n" + response
 
 	return c.String(http.StatusOK, markdownResponse)
 }
