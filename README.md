@@ -39,8 +39,8 @@ In today's fast-paced workplace, effective communication is crucial for a produc
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/one-on-one-meeting-assistant.git
-cd one-on-one-meeting-assistant
+git clone https://github.com/loftwah/1on1-automation.git
+cd 1on1-automation
 ```
 
 Install dependencies:
