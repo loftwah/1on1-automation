@@ -51,31 +51,25 @@ func handleHealthCheck(c echo.Context) error {
 }
 
 func handleGenerateQuestions(c echo.Context) error {
-	// A simplified prompt for OpenAI to generate one-on-one meeting questions
-	prompt := "Create a set of engaging and open-ended questions for a casual and friendly one-on-one work meeting. Include questions about current projects, personal development, challenges, work satisfaction, and any positive aspects of work life. The questions should be light-hearted, aiming to encourage an honest and comfortable conversation."
+	prompt := "Create a set of engaging and open-ended questions in Markdown format for a casual and friendly one-on-one work meeting. Include questions about current projects, personal development, challenges, work satisfaction, and any positive aspects of work life."
 
 	response, err := services.ChatWithOpenAI(prompt)
 	if err != nil {
 		return c.String(http.StatusInternalServerError, err.Error())
 	}
 
-	// Format the response in Markdown for readability
-	markdownResponse := "## One-on-One Meeting Questions\n\n" + response
-
-	return c.String(http.StatusOK, markdownResponse)
+	return c.String(http.StatusOK, response)
 }
 
 func handleGenerateReport(c echo.Context) error {
-	// Assume the responses from the one-on-one meeting are passed as a parameter
 	meetingResponses := c.FormValue("responses")
 
-	// Updated prompt to generate discussion suggestions for the upcoming meeting
-	prompt := "Based on the following responses from a recent one-on-one meeting: " + meetingResponses + ", generate a list of suggested topics for discussion for the next meeting. These suggestions should help guide a meaningful conversation about progress, challenges, and opportunities for growth."
+	prompt := "Based on these one-on-one meeting responses: " + meetingResponses + ", generate suggestions for discussion topics for the next meeting in Markdown format. Focus on areas such as progress, challenges, and opportunities for growth."
 
 	response, err := services.ChatWithOpenAI(prompt)
 	if err != nil {
 		return c.String(http.StatusInternalServerError, err.Error())
 	}
 
-	return c.JSON(http.StatusOK, map[string]string{"discussion_suggestions": response})
+	return c.String(http.StatusOK, response)
 }
