@@ -10,29 +10,29 @@ In today's fast-paced workplace, effective communication is crucial for a produc
 
 ## 🌈 Features
 
-* **🔍 Personalized Question Generation**: Leverage AI to generate contextually relevant questions that guide and enrich your conversations.
-* **💬 Interactive AI Chat**: Engage in preparatory discussions with an AI bot, helping you explore various workplace topics.
-* **📝 Insightful Reports**: Receive post-chat summaries encapsulating key discussion points, action items, and insights.
-* **🔗 Multi-platform Integration**: Seamlessly integrate with Slack and email for easy access and sharing.
-* **🔐 Privacy and Security**: Highest confidentiality standards in handling sensitive discussions.
+- **🔍 Personalized Question Generation**: Leverage AI to generate contextually relevant questions that guide and enrich your conversations.
+- **💬 Interactive AI Chat**: Engage in preparatory discussions with an AI bot, helping you explore various workplace topics.
+- **📝 Insightful Reports**: Receive post-chat summaries encapsulating key discussion points, action items, and insights.
+- **🔗 Multi-platform Integration**: Seamlessly integrate with Slack and email for easy access and sharing.
+- **🔐 Privacy and Security**: Highest confidentiality standards in handling sensitive discussions.
 
 ## 💡 Benefits
 
-* **🎯 Optimized Meeting Preparation**: Enter your meetings well-prepared, ensuring efficient and focused discussions.
-* **⏱️ Time-Saving**: Streamline meeting preparations and follow-ups, saving valuable time.
-* **🎙️ Enhanced Communication**: Promote clarity and understanding, leading to improved workplace relationships.
-* **📈 Actionable Feedback**: Gain practical insights for professional development and team dynamics.
-* **🔄 Flexible Interaction**: Share insights in diverse communication styles, accommodating preferences.
+- **🎯 Optimized Meeting Preparation**: Enter your meetings well-prepared, ensuring efficient and focused discussions.
+- **⏱️ Time-Saving**: Streamline meeting preparations and follow-ups, saving valuable time.
+- **🎙️ Enhanced Communication**: Promote clarity and understanding, leading to improved workplace relationships.
+- **📈 Actionable Feedback**: Gain practical insights for professional development and team dynamics.
+- **🔄 Flexible Interaction**: Share insights in diverse communication styles, accommodating preferences.
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-* **🔑 OpenAI API Key**: An OpenAI key to access AI functionalities.
-* **💻 Go Environment**: Setup for Go programming language.
-* **💬 Slack Account**: For Slack channel integration.
-* **📧 Email Server Access**: For email report distribution.
-* **🔊 Echo Framework**: Setup Echo framework for handling web server requests.
+- **🔑 OpenAI API Key**: An OpenAI key to access AI functionalities.
+- **💻 Go Environment**: Setup for Go programming language.
+- **💬 Slack Account**: For Slack channel integration.
+- **📧 Email Server Access**: For email report distribution.
+- **🔊 Echo Framework**: Setup Echo framework for handling web server requests.
 
 ### Installation
 
@@ -54,10 +54,10 @@ go get .
 Set up your environment variables:
 
 ```env
-OPENAI_KEY=your_openai_api_key
-SLACK_TOKEN=your_slack_api_token
-EMAIL_SMTP_HOST=your_email_smtp_host
-ECHO_FRAMEWORK_SETUP=your_echo_framework_configuration
+OPENAI_KEY=YOUR_API_KEY
+AWS_ACCESS_KEY_ID=YOUR_ACCESS_KEY_ID
+AWS_SECRET_ACCESS_KEY=YOUT_SECRET_ACCESS_KEY
+SLACK_BOT_TOKEN=YOUR_SLACK_BOT_TOKEN
 ```
 
 ### Running the Application
@@ -88,7 +88,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🙏 Acknowledgments
 
-* **OpenAI**: For the AI engine powering our application.
-* **Slack**: For their robust API and platform support.
-* **Echo Framework**: For managing web server requests efficiently.
-* **Contributors**: To all who contribute to making this project a success.
+- **OpenAI**: For the AI engine powering our application.
+- **Slack**: For their robust API and platform support.
+- **Echo Framework**: For managing web server requests efficiently.
+- **Contributors**: To all who contribute to making this project a success.
