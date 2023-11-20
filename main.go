@@ -3,13 +3,13 @@ package main
 import (
 	"net/http"
 	"os"
+	"strings"
 
 	"github.com/joho/godotenv"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
 
 	"1on1-automation/services"
-	"1on1-automation/slack_service"
 )
 
 func main() {
@@ -18,8 +18,10 @@ func main() {
 		panic("Error loading .env file")
 	}
 
-	slackService := slack_service.NewSlackService()
-	go slackService.StartListening() // Start listening to Slack events
+	slackService := services.NewSlackService()
+	if slackService != nil {
+		go slackService.StartListening() // Start listening to Slack events if service is initialized
+	}
 
 	e := echo.New()
 	e.Use(middleware.Logger(), middleware.Recover())
@@ -27,7 +29,6 @@ func main() {
 	// Routes
 	e.GET("/", handleRoot)
 	e.GET("/health", handleHealthCheck)
-	e.POST("/slack/events", slackService.HandleSlackEvents)
 	e.POST("/generate-questions", handleGenerateQuestions)
 	e.POST("/generate-report", handleGenerateReport)
 
@@ -51,20 +52,29 @@ func handleHealthCheck(c echo.Context) error {
 }
 
 func handleGenerateQuestions(c echo.Context) error {
-	// Example prompt to generate questions
-	prompt := "Generate a list of discussion questions for a one-on-one meeting focusing on career development."
+	// Define categories of questions
+	categories := []string{"About Manager", "Career development", "Conversation starters", "Job satisfaction", "Team and company", "Work-life"}
+
+	// Generate a friendly and personalized prompt for OpenAI
+	prompt := "Create a personalized and friendly set of questions for a one-on-one meeting with a manager. Include questions from the following categories: " + strings.Join(categories, ", ") + ". Format the questions in Markdown for easy readability. Advise the user that they don't have to answer anything they're not comfortable with and this is just to help guide the conversation."
 
 	response, err := services.ChatWithOpenAI(prompt)
 	if err != nil {
 		return c.String(http.StatusInternalServerError, err.Error())
 	}
 
-	return c.JSON(http.StatusOK, map[string]string{"questions": response})
+	// Format response in Markdown
+	markdownResponse := "### One-on-One Meeting Questions\n\n" + response
+
+	return c.String(http.StatusOK, markdownResponse)
 }
 
 func handleGenerateReport(c echo.Context) error {
+	// Assume the responses from the one-on-one meeting are passed as a parameter
+	meetingResponses := c.FormValue("responses")
+
 	// Example prompt to generate a report
-	prompt := "Generate a report summarizing the key points from a one-on-one meeting about project management."
+	prompt := "Generate a report summarizing the key points and actionable items from the following one-on-one meeting responses: " + meetingResponses
 
 	response, err := services.ChatWithOpenAI(prompt)
 	if err != nil {

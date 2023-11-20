@@ -1,6 +1,7 @@
 package services
 
 import (
+	"log"
 	"os"
 
 	"github.com/slack-go/slack"
@@ -15,12 +16,14 @@ type SlackService struct {
 
 // NewSlackService creates a new instance of SlackService
 func NewSlackService() *SlackService {
-	api := slack.New(os.Getenv("SLACK_BOT_TOKEN"))
-	socketClient := socketmode.New(
-		api,
-		socketmode.OptionDebug(true),
-		socketmode.OptionLog(nil),
-	)
+	token := os.Getenv("SLACK_BOT_TOKEN")
+	if token == "" {
+		log.Println("No Slack bot token provided. Slack integration is disabled.")
+		return nil
+	}
+
+	api := slack.New(token)
+	socketClient := socketmode.New(api, socketmode.OptionDebug(true), socketmode.OptionLog(nil))
 
 	return &SlackService{
 		api:          api,
@@ -30,6 +33,10 @@ func NewSlackService() *SlackService {
 
 // StartListening listens for events from Slack and handles them
 func (s *SlackService) StartListening() {
+	if s == nil {
+		return // Skip if SlackService is not initialized
+	}
+
 	go func() {
 		for evt := range s.socketClient.Events {
 			switch evt.Type {
@@ -37,9 +44,8 @@ func (s *SlackService) StartListening() {
 				// Handle interactive events here
 			case socketmode.EventTypeEventsAPI:
 				// Handle events API callbacks here
-				event, _ := evt.Data.(slackevents.EventsAPIEvent)
 				s.socketClient.Ack(*evt.Request)
-				// Process the event here
+				// Add processing logic here
 			}
 		}
 	}()
@@ -49,6 +55,9 @@ func (s *SlackService) StartListening() {
 
 // SendMessage sends a message to a specified channel
 func (s *SlackService) SendMessage(channel, message string) error {
+	if s == nil {
+		return nil // Skip if SlackService is not initialized
+	}
 	_, _, err := s.api.PostMessage(channel, slack.MsgOptionText(message, false))
 	return err
 }
