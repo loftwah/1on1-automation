@@ -1,5 +1,7 @@
 # 🌟 AI-Enhanced One-on-One Meeting Assistant 🌟
 
+![Banner](https://github.com/loftwah/1on1-automation/assets/19922556/bba4de93-2ab2-4843-81cd-ace907f0c12a)
+
 Welcome to the 🚀 AI-Enhanced One-on-One Meeting Assistant, a groundbreaking tool designed to transform the dynamics of manager-employee interactions into opportunities for deep engagement and professional development.
 
 ## 📊 Overview
