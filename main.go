@@ -69,13 +69,13 @@ func handleGenerateReport(c echo.Context) error {
 	// Assume the responses from the one-on-one meeting are passed as a parameter
 	meetingResponses := c.FormValue("responses")
 
-	// Example prompt to generate a report
-	prompt := "Generate a report summarizing the key points and actionable items from the following one-on-one meeting responses: " + meetingResponses
+	// Updated prompt to generate discussion suggestions for the upcoming meeting
+	prompt := "Based on the following responses from a recent one-on-one meeting: " + meetingResponses + ", generate a list of suggested topics for discussion for the next meeting. These suggestions should help guide a meaningful conversation about progress, challenges, and opportunities for growth."
 
 	response, err := services.ChatWithOpenAI(prompt)
 	if err != nil {
 		return c.String(http.StatusInternalServerError, err.Error())
 	}
 
-	return c.JSON(http.StatusOK, map[string]string{"report": response})
+	return c.JSON(http.StatusOK, map[string]string{"discussion_suggestions": response})
 }
