@@ -2,7 +2,7 @@ import * as am5 from '@amcharts/amcharts5';
 import am5geodata_worldLow from '@amcharts/amcharts5-geodata/worldLow';
 import * as am5map from '@amcharts/amcharts5/map';
 import am5themes_Animated from '@amcharts/amcharts5/themes/Animated';
-const { themeColors } = require('../../../tailwind.config.js');
+import { themeColors } from '../../../tailwind.config.js';
 import ApexCharts from 'apexcharts';
 import colors from 'tailwindcss/colors';
 
