@@ -1,12 +1,7 @@
-/** @type {import('tailwindcss').Config} */
-import defaultTheme from 'tailwindcss/defaultTheme';
-import colors from 'tailwindcss/colors';
-import forms from '@tailwindcss/forms';
-import variables from '@mertasan/tailwindcss-variables';
-import typography from '@tailwindcss/typography';
+const defaultTheme = require('tailwindcss/defaultTheme');
+const colors = require('tailwindcss/colors');
 
-// Add your custom theme colors here
-export const themeColors = {
+const themeColors = {
   primary: colors.violet,
   secondary: colors.gray,
   success: colors.emerald,
@@ -16,7 +11,8 @@ export const themeColors = {
   dark: colors.slate,
 };
 
-export default {
+module.exports = {
+  themeColors, // Exporting themeColors
   darkMode: 'class',
   content: ['./src/**/*.{html,css,scss,js}'],
   theme: {
@@ -50,7 +46,7 @@ export default {
             transform: 'translateY(0)',
           },
         },
-        'face-in-down': {
+        'fade-in-down': {
           '0%': {
             opacity: '0',
             transform: 'translateY(-10px)',
@@ -139,12 +135,11 @@ export default {
           },
         },
       }),
-      
     },
   },
   plugins: [
-    forms,
-    variables,
-    typography,
+    require('@tailwindcss/forms'),
+    require('@mertasan/tailwindcss-variables'),
+    require('@tailwindcss/typography'),
   ],
-}
+};
