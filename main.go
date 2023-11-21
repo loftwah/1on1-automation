@@ -25,8 +25,12 @@ func main() {
 	e := echo.New()
 	e.Use(middleware.Logger(), middleware.Recover())
 
+	// Static files
+	e.Static("/", "frontend/")
+
 	// Routes
 	e.GET("/", handleRoot)
+	e.GET("/dynamic-content", handleDynamicContent)
 	e.GET("/health", handleHealthCheck)
 	e.GET("/generate-questions", handleGenerateQuestions)
 	e.POST("/generate-report", handleGenerateReport)
@@ -43,7 +47,11 @@ func getServerPort() string {
 }
 
 func handleRoot(c echo.Context) error {
-	return c.String(http.StatusOK, "AI-Enhanced One-on-One Meeting Assistant is running")
+	return c.File("frontend/index.html")
+}
+
+func handleDynamicContent(c echo.Context) error {
+	return c.String(http.StatusOK, "Dynamic content loaded successfully!")
 }
 
 func handleHealthCheck(c echo.Context) error {

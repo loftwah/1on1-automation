@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>One-on-One Meeting Assistant</title>
+    <script src="/js/htmx.min.js"></script>
+</head>
+<body>
+    <h1>One-on-One Meeting Assistant</h1>
+    <div id="dynamic-area">
+        <button hx-get="/dynamic-content" hx-trigger="click" hx-target="#dynamic-area">
+            Load Dynamic Content
+        </button>
+    </div>
+</body>
+</html>
