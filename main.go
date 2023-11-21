@@ -29,6 +29,8 @@ func main() {
 	e.Static("/", "frontend/")
 	e.Static("/css", "frontend/css")
 	e.Static("/js", "frontend/js")
+	e.Static("/json", "frontend/json")
+	e.Static("/scss", "frontend/scss")
 
 	// Routes
 	e.GET("/", handleRoot)

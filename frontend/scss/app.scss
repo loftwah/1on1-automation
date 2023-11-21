@@ -28,7 +28,8 @@
 @import 'tippy.js/themes/translucent.css';
 @import '@yaireo/tagify/dist/tagify.css';
 @import 'toastify-js/src/toastify.css';
-@import 'tom-select/dist/scss/tom-select.scss';
+// @import 'tom-select/dist/scss/tom-select.scss';
+@import '../../node_modules/tom-select/dist/scss/tom-select.scss';
 
 // Base
 @import 'tailwind';
