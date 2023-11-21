@@ -1,7 +1,7 @@
 version: '3.8'
 
 services:
-  app:
+  go-backend:
     build:
       context: .
       dockerfile: Dockerfile.dev
@@ -12,3 +12,12 @@ services:
       - "1323:1323"
     env_file:
       - .env
+
+  vite-frontend:
+    image: node:latest
+    working_dir: /app/frontend # Assuming your frontend code is in the 'frontend' directory
+    volumes:
+      - ./:/app/frontend # Adjust this path as needed
+    ports:
+      - "3002:3002"
+    command: sh -c "npm install && npm run dev -- --no-open --host 0.0.0.0"

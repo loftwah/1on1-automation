@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "description": "AI-Enhanced One-on-One Meeting Assistant",
   "scripts": {
+    "copy-htmx": "cp node_modules/htmx.org/dist/htmx.min.js frontend/js/",
     "dev": "vite",
     "build": "vite build",
+    "go": "air",
     "serve": "vite preview",
+    "start": "concurrently \"npm run go\" \"npm run dev\"",
     "build-css": "sass frontend/scss:frontend/css && tailwindcss -i frontend/css/tailwind.css -o frontend/css/styles.css",
-    "watch-css": "sass -w frontend/scss:frontend/css && tailwindcss -i frontend/css/tailwind.css -o frontend/css/styles.css --watch",
-    "copy-htmx": "cp node_modules/htmx.org/dist/htmx.min.js frontend/js/"
+    "watch-css": "sass -w frontend/scss:frontend/css && tailwindcss -i frontend/css/tailwind.css -o frontend/css/styles.css --watch"
   },
   "repository": {
     "type": "git",
