@@ -34,6 +34,7 @@ func main() {
 	e.GET("/", handleRoot)
 	e.GET("/dynamic-content", handleDynamicContent)
 	e.GET("/health", handleHealthCheck)
+	e.GET("/htmx", handleHtmx)
 	e.GET("/generate-questions", handleGenerateQuestions)
 	e.POST("/generate-report", handleGenerateReport)
 
@@ -50,6 +51,10 @@ func getServerPort() string {
 
 func handleRoot(c echo.Context) error {
 	return c.File("frontend/index.html")
+}
+
+func handleHtmx(c echo.Context) error {
+	return c.File("frontend/htmx.html")
 }
 
 func handleDynamicContent(c echo.Context) error {
