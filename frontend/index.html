@@ -2,15 +2,42 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>One-on-One Meeting Assistant</title>
+    <title>AI-Enhanced One-on-One Meeting Assistant</title>
     <script src="/js/htmx.min.js"></script>
+    <link href="/css/styles.css" rel="stylesheet">
 </head>
-<body>
-    <h1>One-on-One Meeting Assistant</h1>
-    <div id="dynamic-area">
-        <button hx-get="/dynamic-content" hx-trigger="click" hx-target="#dynamic-area">
-            Load Dynamic Content
-        </button>
+<body class="bg-blue-50">
+    <div class="container mx-auto p-6">
+        <!-- Banner Image -->
+        <div class="mx-auto max-w-4xl rounded overflow-hidden shadow-lg my-6">
+            <img class="w-full" id="banner-image" src="/images/banner.png" alt="AI-Enhanced One-on-One Meeting Assistant Banner">
+        </div>
+        
+        <!-- Title and Introduction -->
+        <div class="text-center mb-6">
+            <h1 class="text-5xl font-extrabold text-gray-800 mb-4">AI-Enhanced One-on-One Meeting Assistant</h1>
+            <p class="text-xl text-gray-600">Transforming Manager-Employee Interactions with AI-Driven Insights</p>
+        </div>
+
+        <!-- Load Image Button and Area -->
+        <div class="text-center">
+            <button id="load-image-button" class="bg-purple-600 hover:bg-purple-800 text-white font-bold py-3 px-6 rounded transition duration-300" 
+                    onclick="document.getElementById('dynamic-image').classList.remove('hidden'); document.getElementById('dynamic-image').src = '/dynamic-content'; return false;">
+                Load Image
+            </button>
+            <div id="image-area" class="mt-6">
+                <img id="dynamic-image" class="hidden rounded mx-auto mt-4"/>
+            </div>
+        </div>
+        
+        <!-- Features and Benefits Section -->
+        <div class="mt-12">
+            <h2 class="text-3xl font-semibold text-gray-900 mb-3">Features</h2>
+            <p class="text-md text-gray-600 my-2">Personalized Question Generation, Interactive AI Conversations, Insightful Report Generation, Multi-platform Integration, Privacy and Security.</p>
+            
+            <h2 class="text-3xl font-semibold text-gray-900 mb-3 mt-8">Benefits</h2>
+            <p class="text-md text-gray-600 my-2">Enhanced Meeting Preparation, Time Efficiency, Improved Communication, Actionable Insights, Flexibility.</p>
+        </div>
     </div>
 </body>
 </html>

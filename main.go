@@ -27,6 +27,8 @@ func main() {
 
 	// Static files
 	e.Static("/", "frontend/")
+	e.Static("/css", "frontend/css")
+	e.Static("/js", "frontend/js")
 
 	// Routes
 	e.GET("/", handleRoot)
@@ -51,7 +53,8 @@ func handleRoot(c echo.Context) error {
 }
 
 func handleDynamicContent(c echo.Context) error {
-	return c.String(http.StatusOK, "Dynamic content loaded successfully!")
+	c.Response().Header().Set(echo.HeaderContentType, "image/png")
+	return c.File("frontend/images/htmx.png")
 }
 
 func handleHealthCheck(c echo.Context) error {
