@@ -59,7 +59,10 @@ In the rapidly evolving work environment of today, effective communication is pa
 4. **Running Locally**: Start the application by executing:
 
    ```bash
-   go run cmd/server/main.go
+   cd frontend
+   npm install
+   npm run start
+   ```
    ```
 
 ### Docker Development Setup
