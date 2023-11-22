@@ -20,4 +20,4 @@ services:
       - ./frontend:/app/frontend
     ports:
       - "3002:3002"
-    command: sh -c "npm install && npm run dev -- --no-open --host 0.0.0.0"
+    command: sh -c "npm install && concurrently \"npm run dev -- --no-open --host 0.0.0.0\" \"npm run watch-css\""
