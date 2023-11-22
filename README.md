@@ -60,7 +60,7 @@ SLACK_BOT_TOKEN=YOUR_SLACK_BOT_TOKEN
 Bring it to life:
 
 ```bash
-go run main.go
+air
 ```
 
 ### Testing the Endpoints
