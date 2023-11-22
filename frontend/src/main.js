@@ -1,2 +1,2 @@
 // src/main.js
-console.log('Vite is working!');
+console.log("Main JS loaded");
