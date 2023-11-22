@@ -91,7 +91,7 @@ This endpoint generates a summary report based on the responses from a one-on-on
 ```bash
 curl -X POST http://localhost:1323/generate-report \
      -H "Content-Type: application/x-www-form-urlencoded" \
-     -d "responses=The%20new%20marketing%20project%20is%20shaping%20up%20well%2C%20facing%20some%20team%20alignment%20challenges.%20Interested%20in%20improving%20leadership%20skills.%20Creating%20content%20strategies%20is%20most%20satisfying.%20Time%20management%20is%20a%20current%20hurdle.%20Enjoy%20the%20team%27s%20collaborative%20spirit.%20Keen%20on%20exploring%20product%20management.%20Hiking%20helps%20maintain%20work-life%20balance.%20Interested%20in%20learning%20about%20R%26D.%20Proud%20of%20the%20positive%20client%20feedback%20on%20our%20last%20campaign.%20Would%20advise%20past%20self%20to%20be%20open%20to%20feedback.%20Interested%20in%20a%20monthly%20team%20recognition%20program.%20Digital%20marketing%20analytics%20was%20a%20fascinating%20learning%20area.%20Planning%20a%20road%20trip%20next%20month.%20Feel%20empowered%20at%20level%208%2C%20seeking%20more%20decision-making%20opportunities.%20%27Never%20stop%20learning%27%20has%20been%20pivotal%20advice."
+     -d "responses=<your_responses>"
 ```
 
 **Expected Response:** A comprehensive report summarizing key points and actionable items from the provided responses, formatted in plain text or Markdown.
