@@ -68,7 +68,7 @@ func handleHealthCheck(c echo.Context) error {
 }
 
 func handleGenerateQuestions(c echo.Context) error {
-	prompt := "Create a set of engaging and open-ended questions in Markdown format for a casual and friendly one-on-one work meeting. Include questions about current projects, personal development, challenges, work satisfaction, and any positive aspects of work life."
+	prompt := "Craft a series of engaging, thought-provoking, and open-ended questions in Markdown format for a relaxed yet insightful one-on-one work meeting. The questions should delve into areas like current project status, personal and professional growth, workplace challenges, overall job satisfaction, and the bright spots in their work life. Aim to foster a sense of comfort and candid conversation, encouraging both reflection and forward-thinking."
 
 	response, err := services.ChatWithOpenAI(prompt)
 	if err != nil {
@@ -81,7 +81,7 @@ func handleGenerateQuestions(c echo.Context) error {
 func handleGenerateSuggestions(c echo.Context) error {
 	meetingResponses := c.FormValue("responses")
 
-	prompt := "Based on these one-on-one meeting responses: " + meetingResponses + ", generate suggestions for discussion topics for the next meeting in Markdown format. Focus on areas such as progress, challenges, and opportunities for growth."
+	prompt := "Analyze these one-on-one meeting responses: " + meetingResponses + ". Synthesize thoughtful, constructive, and actionable suggestions for discussion topics in the next meeting, presented in Markdown format. Emphasize areas such as project milestones, emerging challenges, professional development opportunities, team dynamics, and paths for future growth. Ensure the suggestions are framed to promote positive dialogue, engagement, and mutual understanding."
 
 	response, err := services.ChatWithOpenAI(prompt)
 	if err != nil {
