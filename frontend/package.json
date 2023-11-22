@@ -1,0 +1,60 @@
+{
+  "name": "1on1-automation",
+  "version": "1.0.0",
+  "description": "AI-Enhanced One-on-One Meeting Assistant",
+  "scripts": {
+    "copy-htmx": "cp node_modules/htmx.org/dist/htmx.min.js src/js/",
+    "dev": "vite",
+    "build": "vite build",
+    "go": "air",
+    "serve": "vite preview",
+    "start": "concurrently \"npm run go\" \"npm run dev\"",
+    "build-css": "sass src/scss:src/css && tailwindcss -i src/css/tailwind.css -o src/css/styles.css",
+    "watch-css": "sass -w src/scss:src/css && tailwindcss -i src/css/tailwind.css -o src/css/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loftwah/1on1-automation.git"
+  },
+  "author": "Dean Lofts",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.0.0",
+    "htmx.org": "^1.9.8",
+    "postcss": "^8.0.0",
+    "sass": "^1.58.1",
+    "tailwindcss": "^3.0.0",
+    "vite": "^5.0.1"
+  },
+  "dependencies": {
+    "@amcharts/amcharts5": "^5.5.7",
+    "@amcharts/amcharts5-geodata": "^5.1.1",
+    "@floating-ui/dom": "^1.5.3",
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "@fullcalendar/core": "^6.1.9",
+    "@fullcalendar/daygrid": "^6.1.9",
+    "@fullcalendar/interaction": "^6.1.9",
+    "@fullcalendar/list": "^6.1.9",
+    "@fullcalendar/timegrid": "^6.1.9",
+    "@mertasan/tailwindcss-variables": "^2.7.0",
+    "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/typography": "^0.5.10",
+    "@yaireo/tagify": "^4.17.9",
+    "accordion-js": "^3.3.4",
+    "apexcharts": "^3.44.0",
+    "boxicons": "^2.1.4",
+    "dropzone": "^6.0.0-beta.2",
+    "feather-icons": "^4.29.1",
+    "highlight.js": "^11.9.0",
+    "js-beautify": "^1.14.11",
+    "path": "^0.12.7",
+    "quill": "^1.3.7",
+    "resize-observer-polyfill": "^1.5.1",
+    "simple-datatables": "^8.0.1",
+    "simplebar": "^6.2.5",
+    "swiper": "^11.0.4",
+    "tippy.js": "^6.3.7",
+    "toastify-js": "^1.12.0",
+    "tom-select": "^2.3.1"
+  }
+}
