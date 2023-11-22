@@ -9,7 +9,7 @@
     "serve": "vite preview",
     "start": "concurrently \"npm run go\" \"npm run dev\" \"npm run watch-css\"",
     "watch-css": "sass src/scss:src/css && tailwindcss -i src/css/tailwind.css -o src/css/styles.css --watch",
-    "go": "air"
+    "go": "cd .. && air -c .air.toml"
   },
   "repository": {
     "type": "git",
