@@ -5,7 +5,7 @@ WORKDIR /app
 COPY go.mod go.sum ./
 RUN go mod download
 COPY . .
-RUN CGO_ENABLED=0 GOOS=linux go build -a -installsuffix cgo -o main .
+RUN CGO_ENABLED=0 GOOS=linux go build -a -installsuffix cgo -o main ./cmd/server
 
 # Use a minimal alpine image for the final stage
 FROM alpine:latest
@@ -16,7 +16,6 @@ COPY --from=builder /app/main .
 
 # Copy the .env file into the container
 COPY .env .
-COPY data/data.csv data/data.csv
 
 EXPOSE 1323
 CMD ["./main"]

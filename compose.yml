@@ -15,9 +15,9 @@ services:
 
   vite-frontend:
     image: node:latest
-    working_dir: /app/frontend # Assuming your frontend code is in the 'frontend' directory
+    working_dir: /app/frontend
     volumes:
-      - ./:/app/frontend # Adjust this path as needed
+      - ./frontend:/app/frontend
     ports:
       - "3002:3002"
     command: sh -c "npm install && npm run dev -- --no-open --host 0.0.0.0"

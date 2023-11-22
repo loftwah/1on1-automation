@@ -8,7 +8,7 @@ import (
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
 
-	"1on1-automation/services"
+	"1on1-automation/internal/services"
 )
 
 func main() {
@@ -26,11 +26,11 @@ func main() {
 	e.Use(middleware.Logger(), middleware.Recover())
 
 	// Static files
-	e.Static("/", "frontend/")
-	e.Static("/css", "frontend/css")
-	e.Static("/js", "frontend/js")
-	e.Static("/json", "frontend/json")
-	e.Static("/scss", "frontend/scss")
+	e.Static("/", "../../frontend/src")
+	e.Static("/css", "../../frontend/src/css")
+	e.Static("/js", "../../frontend/src/js")
+	e.Static("/json", "../../frontend/src/json")
+	e.Static("/scss", "../../frontend/src/scss")
 
 	// Routes
 	e.GET("/", handleRoot)
@@ -52,16 +52,16 @@ func getServerPort() string {
 }
 
 func handleRoot(c echo.Context) error {
-	return c.File("frontend/index.html")
+	return c.File("frontend/src/index.html")
 }
 
 func handleHtmx(c echo.Context) error {
-	return c.File("frontend/htmx.html")
+	return c.File("frontend/src/htmx.html")
 }
 
 func handleDynamicContent(c echo.Context) error {
 	c.Response().Header().Set(echo.HeaderContentType, "image/png")
-	return c.File("frontend/images/htmx.png")
+	return c.File("frontend/src/images/htmx.png")
 }
 
 func handleHealthCheck(c echo.Context) error {

@@ -1,79 +1,135 @@
-# Infrastructure as Code for 1on1 Playground
+# 🌟 AI-Enhanced One-on-One Meeting Assistant 🌟
 
-Welcome to the 1on1 Playground project infrastructure setup! This guide outlines the steps to deploy your environment on AWS using ECS with Fargate in the `ap-southeast-2` region.
+![Banner](https://github.com/loftwah/1on1-automation/assets/19922556/bba4de93-2ab2-4843-81cd-ace907f0c12a)
 
-## Prerequisites
+Step into the future of workplace communication with the AI-Enhanced One-on-One Meeting Assistant. This transformative tool is engineered to revolutionize the dynamics of manager-employee interactions, paving the way for deeper engagement and impactful professional development.
 
-Before starting, ensure you have the following:
+## 📊 Project Overview
 
-- **AWS CLI:** Configured with the correct credentials.
-- **Docker:** For building and pushing the Docker image.
-- **Docker Image:** Available in Docker Hub or AWS ECR.
+In the rapidly evolving work environment of today, effective communication is paramount. Our AI-Enhanced One-on-One Meeting Assistant is a game-changer, providing insightful, AI-driven conversation starters and comprehensive reports. It's more than a tool - it's your partner in fostering meaningful dialogue and actionable insights.
 
-## Infrastructure Components
+## 🌈 Distinguished Features
 
-Our AWS setup includes:
+- **🔍 AI-Driven Question Generation**: Experience AI's prowess in generating contextually relevant questions, enriching your conversations.
+- **💬 Interactive AI Chat**: Prepare for meetings with AI guidance, exploring varied workplace topics.
+- **📝 Insightful Reports**: Receive detailed summaries post-discussion, highlighting crucial points and actionable insights.
+- **🔗 Multi-Platform Integration**: Effortlessly integrate with Slack and email for streamlined access and sharing.
+- **🔐 Robust Privacy and Security**: Prioritize confidentiality in sensitive discussions with the highest security standards.
 
-- **ECS (Elastic Container Service):** Using Fargate for serverless task execution.
-- **ECR (Elastic Container Registry):** To store Docker images.
-- **VPC (Virtual Private Cloud):** Utilizing the default VPC.
-- **Subnets:** Using at least two for high availability.
-- **Security Group:** Defining ECS task network rules.
-- **Application Load Balancer (ALB):** To distribute incoming traffic.
+## 💡 Key Benefits
 
-## Step-by-Step Setup
+- **🎯 Precision in Meeting Preparation**: Enter meetings well-prepared, ensuring focused and efficient discussions.
+- **⏱️ Time Efficiency**: Streamline meeting preparations and follow-ups, saving precious time.
+- **🎙️ Enhanced Communication**: Enhance clarity and understanding, leading to improved workplace relationships.
+- **📈 Actionable Feedback**: Garner valuable insights for professional and team development.
+- **🔄 Adaptive Interaction**: Cater to diverse communication styles, accommodating individual preferences.
 
-### 1. Build and Push the Docker Image
+## 🚀 Getting Started
 
-Navigate to the `ecs` directory and run the `build-push-ecr.sh` script:
+### Setting Up Your Environment
 
-```bash
-cd ecs
-./build-push-ecr.sh
-```
+- **🔑 OpenAI API Key**: Obtain an OpenAI key to access AI functionalities.
+- **💻 Go Environment**: Ensure Go programming language is set up.
+- **💬 Slack Account**: Have a Slack account for channel integration.
+- **📧 Email Access**: Ensure access to an email server for report distribution.
+- **🔊 Echo Framework**: Install the Echo framework for web server request handling.
 
-This script creates the ECR repository and pushes your Docker image.
+### Installation & Local Setup
 
-### 2. Deploy AWS Infrastructure with Terraform
+1. **Clone the Repository**:
 
-Navigate to the `terraform` subdirectory:
+   ```bash
+   git clone https://github.com/loftwah/1on1-automation.git
+   cd 1on1-automation
+   ```
 
-```bash
-cd terraform
-```
+2. **Install Dependencies**:
 
-Execute the following Terraform commands:
+   ```bash
+   go get .
+   ```
 
-```bash
-terraform init
-terraform plan
-terraform apply
-```
+3. **Environment Configuration**: Set up your `.env` file with necessary API keys and tokens:
 
-### 3. Testing and Verification
+   ```env
+   OPENAI_KEY=YOUR_API_KEY
+   SLACK_BOT_TOKEN=YOUR_SLACK_BOT_TOKEN
+   ```
 
-After Terraform successfully applies:
+4. **Running Locally**: Start the application by executing:
 
-- **Access the Application**: Visit the ALB DNS URL (`1on1-playground-alb-635238929.ap-southeast-2.elb.amazonaws.com`) in your browser.
-- **ECS Console Check**: Verify the ECS service and tasks are running correctly.
-- **ALB Monitoring**: In AWS Console, check the target group for proper ECS task routing.
+   ```bash
+   go run cmd/server/main.go
+   ```
 
-### DNS Configuration
+### Docker Development Setup
 
-Optionally, configure a DNS record to point to the ALB's DNS name for easier access.
+1. **Build and Run with Docker**:
 
-## Considerations
+   ```bash
+   docker build -t oneonone-assistant .
+   docker run -p 1323:1323 oneonone-assistant
+   ```
 
-- **Security Settings**: Review and maintain security group settings for ALB and ECS.
-- **Health Checks**: Regularly monitor the target group's health checks.
-- **SSL/TLS**: Utilize AWS Certificate Manager for secure HTTPS communication.
+2. **Using Docker Compose for Development**:
 
-## Notes
+   ```bash
+   docker-compose up
+   ```
 
-- The setup utilizes the default VPC and subnets.
-- The ALB ensures the application can handle traffic directed to the ECS service.
-- Monitor AWS costs and usage, particularly for Fargate tasks and the ALB.
+   This will set up the development environment with hot reloading using Air.
+
+### Testing Endpoints
+
+- **Generate Questions**:
+
+  ```bash
+  curl http://localhost:1323/generate-questions
+  ```
+
+- **Generate Reports**:
+
+  ```bash
+  curl -X POST http://localhost:1323/generate-report -d "responses=Your encoded responses"
+  ```
+
+## 📖 Extensive Usage
+
+### Starting Conversations
+
+- **Through Slack**: Invoke the AI chatbot via Slack commands for an interactive prep session.
+- **Via Email**: Send an email to the bot's address to kickstart the AI-guided conversation.
+
+### Sharing Insights
+
+- **Automatically**: Reports generated post-chat can be shared through Slack or email.
+- **Manually**: Opt to distribute these insights manually for a more personal touch.
+
+## 🤝 How to Contribute
+
+Join the vibrant open-source community by contributing to this project. Every contribution, whether big or small, is immensely valued.
+
+## 📜 License
+
+This project is licensed under the MIT License. For more information, see the `LICENSE` file.
+
+## 🙏 Acknowledgments
+
+- **OpenAI**: For providing the AI engine.
+- **Slack**: For their robust API support.
+- **Echo Framework**: For efficient web server management.
+- **Contributors**: Thank you to all who contribute to our collective success.
+
+---
+
+### Deploying to Production with AWS ECS
+
+For deploying this application in a production environment, refer to the comprehensive guide in `ecs/README.md`. It covers the steps for setting up the infrastructure on AWS using ECS with Fargate, including Terraform scripts for a seamless deployment experience.
+
+In this setup, you'll utilize essential AWS services like ECS, ECR, VPC, and ALB to ensure a scalable and secure deployment in the `ap-southeast-2` region. The guide provides detailed instructions for building and pushing Docker images, deploying infrastructure with Terraform, and verifying your setup post-deployment.
+
+With this infrastructure-as-code approach, you can confidently manage and scale your AI-Enhanced One-on-One Meeting Assistant in a cloud environment.
 
 ## Conclusion
 
-Your 1on1 Playground application is now live on AWS ECS using Fargate. This infrastructure-as-code approach ensures a manageable and scalable environment for your application.
+Embrace the innovation of AI in enhancing workplace interactions. With the AI-Enhanced One-on-One Meeting Assistant, you're not just adopting a tool; you're stepping into a new era of meaningful professional communication. Join us in transforming the landscape of manager-employee dialogues!
