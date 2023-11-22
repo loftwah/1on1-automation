@@ -4,7 +4,11 @@ FROM golang:latest
 
 # Install Node.js (example using a specific version)
 RUN curl -fsSL https://deb.nodesource.com/setup_16.x | bash - && \
-    apt-get install -y nodejs
+    apt-get install -y nodejs && \
+    apt-get install -y npm
+
+# Install concurrently
+RUN npm install -g concurrently
 
 # Set the working directory in the container
 WORKDIR /app

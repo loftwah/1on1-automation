@@ -14,7 +14,9 @@ services:
       - .env
 
   vite-frontend:
-    image: node:latest
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
     working_dir: /app/frontend
     volumes:
       - ./frontend:/app/frontend
