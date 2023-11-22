@@ -1,0 +1,23 @@
+{
+    "name": "1on1-automation-root",
+    "version": "1.0.0",
+    "description": "Root configuration for AI-Enhanced One-on-One Meeting Assistant",
+    "scripts": {
+      "start": "cd frontend && npm start",
+      "dev": "cd frontend && npm run dev",
+      "build": "cd frontend && npm run build",
+      "serve": "cd frontend && npm run serve",
+      "watch-css": "cd frontend && npm run watch-css",
+      "go": "cd frontend && npm run go",
+      "copy-htmx": "cd frontend && npm run copy-htmx"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/loftwah/1on1-automation.git"
+    },
+    "author": "Dean Lofts",
+    "license": "MIT",
+    "devDependencies": {
+    }
+  }
+  
