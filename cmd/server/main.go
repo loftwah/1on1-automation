@@ -37,7 +37,7 @@ func main() {
 	e.GET("/health", handleHealthCheck)
 	e.GET("/htmx", handleHtmx)
 	e.GET("/generate-questions", handleGenerateQuestions)
-	e.POST("/generate-report", handleGenerateReport)
+	e.POST("/generate-suggestions", handleGenerateSuggestions)
 
 	e.Logger.Fatal(e.Start(":" + getServerPort()))
 }
@@ -78,7 +78,7 @@ func handleGenerateQuestions(c echo.Context) error {
 	return c.String(http.StatusOK, response)
 }
 
-func handleGenerateReport(c echo.Context) error {
+func handleGenerateSuggestions(c echo.Context) error {
 	meetingResponses := c.FormValue("responses")
 
 	prompt := "Based on these one-on-one meeting responses: " + meetingResponses + ", generate suggestions for discussion topics for the next meeting in Markdown format. Focus on areas such as progress, challenges, and opportunities for growth."
